@@ -1,0 +1,903 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T20:45:00Z",
+  "exportedAt": "2026-06-11T22:52:33.193Z",
+  "districtCode": "OH-01",
+  "data": {
+    "DISTRICT": {
+      "id": "oh-01",
+      "districtNumber": "OH-01",
+      "districtName": "Ohio's 1st Congressional District",
+      "state": "Ohio",
+      "counties": [
+        "Hamilton",
+        "Warren (parts)"
+      ],
+      "majorPlaces": [
+        "Cincinnati",
+        "Blue Ash",
+        "Norwood",
+        "Mason",
+        "Springboro",
+        "Lebanon"
+      ],
+      "cycleYear": 2026,
+      "population": 760000,
+      "registeredVoters": 380000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 158000,
+          "pct": 41.6
+        },
+        {
+          "label": "Republican",
+          "count": 152000,
+          "pct": 40
+        },
+        {
+          "label": "Unaffiliated / Other",
+          "count": 70000,
+          "pct": 18.4
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — OH-01",
+        "winner": {
+          "name": "Greg Landsman (D)",
+          "pct": 54.6,
+          "votes": 198000
+        },
+        "runnerUp": {
+          "name": "Orlando Sonza (R)",
+          "pct": 45.4,
+          "votes": 165000
+        },
+        "turnoutPct": 60
+      }
+    },
+    "SOURCES": {
+      "src-oh-sos-elections": {
+        "id": "src-oh-sos-elections",
+        "name": "Ohio Secretary of State — Elections",
+        "short": "OH SOS Elections",
+        "url": "https://www.ohiosos.gov/elections/",
+        "publisher": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-oh-sos-voter-registration": {
+        "id": "src-oh-sos-voter-registration",
+        "name": "Ohio Secretary of State — Voter Registration",
+        "short": "OH Voter Registration",
+        "url": "https://www.ohiosos.gov/elections/voters/",
+        "publisher": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-oh-sos-ballot-tracker": {
+        "id": "src-oh-sos-ballot-tracker",
+        "name": "Ohio Secretary of State — Absentee Ballot Tracker",
+        "short": "OH Ballot Tracker",
+        "url": "https://www.ohiosos.gov/elections/voters/absentee-ballot-tracker/",
+        "publisher": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-oh-revised-code-title35": {
+        "id": "src-oh-revised-code-title35",
+        "name": "Ohio Revised Code Title 35 — Elections",
+        "short": "ORC Title 35",
+        "url": "https://codes.ohio.gov/ohio-revised-code/title-35",
+        "publisher": "Ohio Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-hamilton-boe": {
+        "id": "src-hamilton-boe",
+        "name": "Hamilton County Board of Elections",
+        "short": "Hamilton BOE",
+        "url": "https://votehamiltoncounty.gov/",
+        "publisher": "Hamilton County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-warren-boe": {
+        "id": "src-warren-boe",
+        "name": "Warren County Board of Elections",
+        "short": "Warren BOE",
+        "url": "https://www.co.warren.oh.us/board_of_elections/",
+        "publisher": "Warren County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ballotpedia-oh01": {
+        "id": "src-ballotpedia-oh01",
+        "name": "Ballotpedia — Ohio's 1st Congressional District election, 2026",
+        "short": "Ballotpedia OH-01",
+        "url": "https://ballotpedia.org/Ohio%27s_1st_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-10tv": {
+        "id": "src-10tv",
+        "name": "10TV — Columbus ABC (Ohio election coverage)",
+        "short": "10TV",
+        "url": "https://www.10tv.com/",
+        "publisher": "10TV (WBNS)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ohio-star": {
+        "id": "src-ohio-star",
+        "name": "Ohio Star — Ohio political news",
+        "short": "Ohio Star",
+        "url": "https://theohiostar.com/",
+        "publisher": "The Ohio Star",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-wlwt": {
+        "id": "src-wlwt",
+        "name": "WLWT — Cincinnati NBC (election coverage)",
+        "short": "WLWT Cincinnati",
+        "url": "https://www.wlwt.com/",
+        "publisher": "WLWT (Hearst)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-wcpo": {
+        "id": "src-wcpo",
+        "name": "WCPO 9 — Cincinnati ABC (election coverage)",
+        "short": "WCPO Cincinnati",
+        "url": "https://www.wcpo.com/news",
+        "publisher": "WCPO (Scripps)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-wilmington-news-journal": {
+        "id": "src-wilmington-news-journal",
+        "name": "Wilmington News-Journal — Warren County area news",
+        "short": "Wilmington News-Journal",
+        "url": "https://www.wnewsj.com/",
+        "publisher": "Wilmington News-Journal",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-oh01-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-04-06",
+        "significance": "Last day to register to vote or update registration for the May 5, 2026 Ohio primary. Ohio requires voter registration 30 days before the election. Online registration via the Ohio SOS portal.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-sos-voter-registration",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-primary-absentee-request-deadline",
+        "milestone": "Absentee ballot request deadline — primary",
+        "electionType": "primary",
+        "date": "2026-04-25",
+        "significance": "Last day to request an absentee (vote-by-mail) ballot for the May 5, 2026 primary. Requests must be received by the county BOE by the Saturday before the election. Ohio has no-excuse absentee voting.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-hamilton-boe",
+          "src-warren-boe",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-primary-early-start",
+        "milestone": "In-person early voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-04-07",
+        "significance": "In-person early voting begins at Hamilton County BOE and Warren County BOE locations, approximately 28 days before the primary. Ohio law permits early voting at county BOE offices during normal business hours, plus extended hours closer to Election Day.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-hamilton-boe",
+          "src-warren-boe",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-05-05",
+        "significance": "Ohio statewide partisan primary. Polls open 6:30 AM – 7:30 PM. OH-01 results: Greg Landsman (D, incumbent) won Democratic primary with 67.90% (Damon Lynch IV eliminated); Eric Conroy (R) won Republican primary with 71.88% (Holly Adams and Rosemary Oglesby-Henry eliminated). SOS LaRose certified primary results June 7, 2026.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-ballotpedia-oh01",
+          "src-wcpo"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-oh01-primary-ballot-receipt-deadline",
+        "milestone": "Absentee ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-05-09",
+        "significance": "Under SB 293 (effective 2024), absentee ballots for non-UOCAVA voters must be received at the county BOE by close of polls on Election Day (7:30 PM, May 5). UOCAVA voters have an extended 4-day postmark window — received by May 9. NOTE: This is a significant change from prior Ohio law; verify with Hamilton and Warren county BOEs.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-primary-canvass",
+        "milestone": "Primary canvass completion — county certification",
+        "electionType": "primary",
+        "date": "2026-05-26",
+        "significance": "Hamilton County and Warren County BOEs complete official canvass and certify primary results to the Ohio Secretary of State. Ohio county BOEs have 21 days after the election to certify primary results. SOS LaRose announced official certification on June 7, 2026.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-primary-sos-certification",
+        "milestone": "Ohio SOS certifies primary results",
+        "electionType": "primary",
+        "date": "2026-06-07",
+        "significance": "Secretary of State Frank LaRose officially certified the 2026 Ohio Primary Election results on June 7, 2026, formally locking in Greg Landsman (D) and Eric Conroy (R) as OH-01 general election nominees.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-wcpo"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-oh01-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "Last day to register to vote or update registration for the November 3, 2026 general election. Ohio requires registration 30 days before the election (30 days before Nov 3 = Oct 4; if that falls on a Sunday, deadline moves to Monday Oct 5). Verify exact date with Ohio SOS.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceIds": [
+          "src-oh-sos-voter-registration",
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-absentee-request-opens",
+        "milestone": "Absentee ballot request window opens — general",
+        "electionType": "general",
+        "date": "2026-09-08",
+        "significance": "Hamilton County and Warren County BOEs begin accepting absentee ballot requests for the November 3 general election. Ohio allows no-excuse absentee voting; voters may request a ballot from 90 days before the election through the Saturday before Election Day.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-hamilton-boe",
+          "src-warren-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-early-start",
+        "milestone": "In-person early voting begins — general",
+        "electionType": "general",
+        "date": "2026-10-06",
+        "significance": "In-person early voting at county BOE offices begins approximately 28 days before the general election (Tuesday, October 6). Ohio law provides approximately 4 weeks of in-person early voting at county BOE offices. Extended weekend and evening hours are available in the final week before Election Day.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-hamilton-boe",
+          "src-warren-boe",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-absentee-request-deadline",
+        "milestone": "Absentee ballot request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-31",
+        "significance": "Last day to request an absentee ballot for the November 3, 2026 general election (Saturday before Election Day). Requests must be received by Hamilton County BOE or Warren County BOE by this date. Return by mail or at the county drop box (one per county per HB 458).",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-hamilton-boe",
+          "src-warren-boe",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. OH-01: Greg Landsman (D, incumbent) vs. Eric Conroy (R) vs. John Hancock (L). Polls open 6:30 AM – 7:30 PM. SJR 10 photo ID constitutional amendment also on the ballot. Race rated Toss-up / Lean Republican by independent analysts.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-ballotpedia-oh01",
+          "src-wcpo"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-ballot-receipt-deadline",
+        "milestone": "Absentee ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-07",
+        "significance": "Under SB 293 (effective 2024), absentee ballots for standard (non-UOCAVA) voters must be received at the county BOE by close of polls on Election Day (7:30 PM, Nov 3). UOCAVA (military/overseas) voters: ballots postmarked by Election Day and received within 4 days (by Nov 7) are counted. NOTE: Prior Ohio law allowed a 10-day post-election receipt window for all absentee voters — SB 293 eliminated that grace period for domestic voters. Verify current rule with Hamilton BOE.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "Hamilton County and Warren County BOEs must complete the official canvass and certify results to the Ohio Secretary of State within 21 days of the general election (approximately November 24, 2026). Provisional ballots and outstanding absentee ballots are counted during the canvass.",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe",
+          "src-oh-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-oh01-general-sos-certification",
+        "milestone": "Ohio Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-12-01",
+        "significance": "Ohio Secretary of State certifies official statewide general election results, including OH-01 congressional race outcome, within 28 days of the election (approximately December 1, 2026).",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-oh-photo-id-required",
+        "topic": "Photo ID requirement at polls (HB 458, 2023)",
+        "currentRule": "Ohio requires a qualifying photo ID to vote in person since HB 458 took effect April 7, 2023. Acceptable photo IDs include: Ohio driver's license or state ID, U.S. passport, U.S. military ID, or Ohio National Guard ID. The ID must show the voter's name and photo; expiration is not required. Voters who cannot show a qualifying photo ID may cast a provisional ballot and provide ID within 4 days.",
+        "status": "active",
+        "whyItMatters": "Every OH-01 in-person voter in Hamilton and Warren counties must present a qualifying photo ID. This is a significant change from prior Ohio law that accepted utility bills and other non-photo documents. Voters without qualifying ID should obtain a free Ohio state ID from the BMV.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-ballotpedia-oh01"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3505.18 (as amended by HB 458, eff. April 7, 2023). SJR 10 on November 2026 ballot would enshrine photo ID requirement in the Ohio Constitution, preventing future legislative/judicial repeal without a statewide vote."
+      },
+      {
+        "id": "rule-oh-free-state-id",
+        "topic": "Free Ohio state ID for voters without qualifying photo ID",
+        "currentRule": "Ohio offers a free state ID (non-driver ID) to any eligible voter who does not have another qualifying photo ID. Voters may obtain a free ID from any Ohio BMV deputy registrar office by presenting proof of identity, residence, and Social Security number. The Ohio SOS and BMV administer this program.",
+        "status": "active",
+        "whyItMatters": "Hamilton and Warren county voters who lack a driver's license, passport, or military ID should apply for a free Ohio state ID before the general election registration deadline (approximately October 5, 2026) to ensure they can vote in person without needing a provisional ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-sos-voter-registration",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 4507.50. Free IDs are available at any BMV deputy registrar. Required documents: proof of name and date of birth, proof of Social Security number, two proofs of Ohio residency."
+      },
+      {
+        "id": "rule-oh-absentee-no-excuse",
+        "topic": "No-excuse absentee (vote-by-mail) voting",
+        "currentRule": "Any registered Ohio voter may request and cast an absentee ballot without providing a reason. Voters must apply for an absentee ballot in writing (by mail, in person, or using the SOS online request form). Absentee ballots are available from 90 days before the election through the Saturday before Election Day.",
+        "status": "active",
+        "whyItMatters": "OH-01 voters in Hamilton and Warren counties may vote by mail without any excuse. Requests should be submitted well in advance of the October 31 deadline to allow time for mailing and return.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3509.03. Requests accepted from 90 days before election through the Saturday before Election Day. HB 472 (pending Governor DeWine signature as of June 2026) would add a photo ID copy requirement for absentee ballots — but only effective ahead of the 2027 election cycle, NOT November 2026."
+      },
+      {
+        "id": "rule-oh-registration-deadline-30-days",
+        "topic": "Voter registration deadline — 30 days before election",
+        "currentRule": "Ohio requires voter registration or re-registration at least 30 days before an election. For the November 3, 2026 general election, the deadline is approximately October 4–5, 2026. Online registration is available through the Ohio SOS portal. Same-day registration is not available in Ohio.",
+        "status": "active",
+        "whyItMatters": "OH-01 voters who are not registered — or who have moved within Hamilton or Warren County and need to update their address — must do so by the 30-day deadline. Missing this deadline means they cannot vote in the November 2026 general election.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-voter-registration",
+          "src-oh-revised-code-title35",
+          "src-oh-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3503.06. Ohio does not have same-day voter registration. Voters who miss the deadline cannot cast a regular ballot; provisional ballots are available for voters whose eligibility is in question."
+      },
+      {
+        "id": "rule-oh-drop-boxes-one-per-county",
+        "topic": "Ballot drop box limit — one per county (HB 458)",
+        "currentRule": "HB 458 (2023) limits each Ohio county to a single official absentee ballot drop box, located at the county Board of Elections. Hamilton County BOE operates one drop box at its main office. Warren County BOE operates one drop box at its main office. Drop boxes are monitored and open during BOE business hours.",
+        "status": "active",
+        "whyItMatters": "OH-01 voters in Hamilton County (Cincinnati metropolitan area) and Warren County who wish to return absentee ballots via drop box have only one county-operated drop box available. This limitation has been challenged in litigation. Voters in outlying parts of the district should plan accordingly.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe",
+          "src-warren-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3509.05 (as amended by HB 458). Prior to HB 458, counties could deploy multiple drop boxes. The one-per-county limitation was challenged in federal court; status of litigation may affect 2026 availability. Verify with Hamilton and Warren BOEs."
+      },
+      {
+        "id": "rule-oh-signature-cure",
+        "topic": "Absentee ballot signature verification and cure",
+        "currentRule": "Hamilton and Warren county BOEs verify the signature on returned absentee ballot envelopes against the voter's registration signature. If the signature is missing or does not match, the county must notify the voter. Ohio law permits voters to cure a missing signature; cure procedures for mismatched signatures have been subject to litigation under HB 458.",
+        "status": "watch",
+        "whyItMatters": "Absentee ballot rejection due to signature issues directly affects OH-01 voters. The cure process and its exact deadlines are less clearly defined in Ohio than in some other states, and HB 458 photo ID litigation has intersected with signature cure rules. Voters should follow up promptly if notified of a signature issue.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC §§ 3509.07, 3509.09. Ohio allows cure of a missing signature but cure procedures for non-matching signatures are less explicit. Civil rights organizations (see ACLU Ohio, HB 472 condemnation) have flagged these provisions for potential litigation."
+      },
+      {
+        "id": "rule-oh-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "Ohio voters who cannot be immediately verified as eligible at the polls — including those lacking qualifying photo ID, voters whose names do not appear on the rolls, or voters in the wrong precinct — may cast a provisional ballot. Provisional ballots are reviewed during the canvass period. Voters who cast provisional ballots due to lack of photo ID must present qualifying ID at their county BOE within 4 days of Election Day for the ballot to count.",
+        "status": "active",
+        "whyItMatters": "Provisional ballot procedures are especially important for OH-01 voters in precincts affected by redistricting (new district boundaries effective 2026 cycle). Voters should verify their polling place and registration ahead of Election Day at votehamiltoncounty.gov or the Warren County BOE.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35",
+          "src-hamilton-boe",
+          "src-warren-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC §§ 3505.181, 3505.183. The 4-day cure window for photo ID provisional ballots is set by HB 458. Voters in the wrong precinct: provisional ballot cast, but only in-precinct races are counted."
+      },
+      {
+        "id": "rule-oh-ban-third-party-ballot-return",
+        "topic": "Ban on third-party absentee ballot return",
+        "currentRule": "Ohio prohibits any person other than the voter, a family member, or a caregiver from returning an absentee ballot on behalf of a voter. 'Ballot harvesting' or organized third-party ballot collection and return is illegal. Only the voter, a household family member, or a person providing assistance to a disabled/ill voter may return a completed absentee ballot.",
+        "status": "active",
+        "whyItMatters": "OH-01 voter assistance organizations, campaigns, and canvassers cannot legally collect and return completed absentee ballots for voters. Voters who need help returning their ballot should use the county BOE drop box or mail it directly.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3509.05(C). Violation is a felony. Voters who are unable to mail or deliver their own ballot should contact the Hamilton or Warren County BOE for assistance options."
+      },
+      {
+        "id": "rule-oh-early-voting-boe-only",
+        "topic": "Early in-person voting at county BOE only",
+        "currentRule": "Ohio's early in-person voting is conducted exclusively at county Board of Elections offices. Unlike some states, Ohio does not have a network of early vote centers throughout the county. Hamilton County BOE is located at 824 Broadway, Cincinnati; Warren County BOE is in Lebanon, OH. Extended evening and weekend hours are required by state law in the final week.",
+        "status": "active",
+        "whyItMatters": "OH-01 voters in Hamilton County who want to vote early in person must travel to the Hamilton County BOE at 824 Broadway, Cincinnati. There are no satellite early voting locations. This may be inconvenient for voters in outlying areas of the district.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-hamilton-boe",
+          "src-warren-boe",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3509.01. Early voting begins 28 days before the election. BOE must be open weekday evenings and weekends per state schedule mandated by ORC."
+      },
+      {
+        "id": "rule-oh-canvass-certification-timeline",
+        "topic": "County canvass and certification timeline",
+        "currentRule": "Ohio county BOEs have 21 days after Election Day to complete the official canvass and certify general election results to the Secretary of State. The Ohio SOS then certifies statewide results. For the November 3, 2026 general: county certification deadline approximately November 24, 2026; SOS certification approximately December 1–3, 2026.",
+        "status": "active",
+        "whyItMatters": "Final results in close OH-01 races (rated Toss-up or Lean R) may not be known until the canvass concludes on approximately November 24. Provisional ballots, absentee ballots, and signature-cured ballots are all counted during this period.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3505.32. County BOE must complete canvass within 21 days of Election Day for general elections. SOS certification typically follows within a few days of county submissions."
+      },
+      {
+        "id": "rule-oh-poll-hours",
+        "topic": "Polling place hours — Election Day",
+        "currentRule": "Ohio polling places are open from 6:30 AM to 7:30 PM on Election Day. Voters in line at 7:30 PM are entitled to vote. Polling places are assigned by precinct; voters must vote at their assigned polling place. Verify polling place at the Ohio SOS My Voter portal or Hamilton/Warren County BOE websites.",
+        "status": "active",
+        "whyItMatters": "OH-01 voters should confirm their assigned polling place before Election Day, as the 2025 redistricting may have changed precinct boundaries in Hamilton and Warren counties. Voting at the wrong polling place results in a provisional ballot where only in-precinct races are counted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-hamilton-boe",
+          "src-warren-boe",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "ORC § 3501.30. Polls open at 6:30 AM and close at 7:30 PM. Check ohiosos.gov/elections/voters to confirm polling place."
+      },
+      {
+        "id": "rule-oh-sjr10-photo-id-constitutional-amendment",
+        "topic": "SJR 10 — Voter photo ID constitutional amendment on November 2026 ballot",
+        "currentRule": "The Ohio House passed Senate Joint Resolution 10 on June 10, 2026 (61–27) placing a constitutional amendment on the November 3, 2026 ballot that would enshrine the existing HB 458 photo ID requirement in the Ohio Constitution. If passed by voters, it would prevent future repeal by the legislature or courts without another statewide vote. Current photo ID law (HB 458) remains in effect regardless of SJR 10's outcome.",
+        "status": "watch",
+        "whyItMatters": "OH-01 voters will see SJR 10 on the same November 3 ballot as the Landsman vs. Conroy congressional race. The amendment's passage would permanently constitutionalize photo ID requirements, limiting future flexibility for voter access legislation. The ACLU and voting rights groups have signaled potential litigation.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-ballotpedia-oh01",
+          "src-wcpo"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "SJR 10 passed Ohio House 61-27 on June 10, 2026, clearing the required 60-vote supermajority. Goes directly to voters on November 3, 2026 ballot. Does not require Governor's signature."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-oh-sos-elections",
+        "label": "Ohio Secretary of State — Elections portal",
+        "url": "https://www.ohiosos.gov/elections/",
+        "description": "Official Ohio elections hub: voter registration, absentee voting, election calendar, results, and county BOE links. Authoritative source for OH-01 election deadlines and photo ID requirements.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-oh-voter-registration",
+        "label": "Ohio SOS — Voter Registration portal",
+        "url": "https://www.ohiosos.gov/elections/voters/",
+        "description": "Register to vote, update your registration, check your registration status, find your polling place, and request an absentee ballot. Deadline for 2026 general: approximately October 4–5, 2026 (30 days before Nov 3).",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-voter-registration",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-oh-ballot-tracker",
+        "label": "Ohio SOS — Absentee Ballot Tracker",
+        "url": "https://www.ohiosos.gov/elections/voters/absentee-ballot-tracker/",
+        "description": "Track your absentee ballot request and return status in Ohio. Check whether your ballot has been received and processed by Hamilton or Warren County BOE.",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-ballot-tracker",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-hamilton-boe",
+        "label": "Hamilton County Board of Elections (votehamiltoncounty.gov)",
+        "url": "https://votehamiltoncounty.gov/",
+        "description": "Official elections page for Hamilton County voters (Cincinnati, Blue Ash, Norwood, Anderson Township area) — the core of OH-01. Absentee ballot requests, drop box location (824 Broadway), early voting schedule, and precinct finder. Phone: (513) 632-7000.",
+        "governingAuthority": "Hamilton County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-hamilton-boe",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-warren-boe",
+        "label": "Warren County Board of Elections",
+        "url": "https://www.co.warren.oh.us/board_of_elections/",
+        "description": "Official elections page for Warren County voters (Mason, Springboro, Lebanon area) in the OH-01 portion of Warren County. Absentee ballot requests, drop box location, and precinct finder.",
+        "governingAuthority": "Warren County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-warren-boe",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-oh01",
+        "label": "Ballotpedia — OH-01 2026 election",
+        "url": "https://ballotpedia.org/Ohio%27s_1st_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for OH-01's 2026 election: candidate profiles, primary results (Landsman D vs Conroy R vs Hancock L), race ratings, campaign finance summary.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-oh01",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-oh-revised-code-title35",
+        "label": "Ohio Revised Code Title 35 — Elections (statutory reference)",
+        "url": "https://codes.ohio.gov/ohio-revised-code/title-35",
+        "description": "Full text of Ohio's elections statutes. Key sections: ORC § 3503.06 (registration deadline), § 3509 (absentee voting), § 3505.18 (photo ID, as amended by HB 458), § 3501.30 (poll hours).",
+        "governingAuthority": "Ohio Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-oh-revised-code-title35",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-wcpo-elections",
+        "label": "WCPO 9 Cincinnati — Elections coverage",
+        "url": "https://www.wcpo.com/news/government/elections-local",
+        "description": "WCPO's local elections news hub covering OH-01, Hamilton County, and Cincinnati metro. Reported on Conroy's May 5 primary win and OH-01 general election developments.",
+        "governingAuthority": "WCPO (Scripps)",
+        "sourceType": "news",
+        "sourceId": "src-wcpo",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-chpl-voter-guide",
+        "label": "Cincinnati & Hamilton County Public Library — 2026 Voter Resource Guide",
+        "url": "https://chpl.org/services/voting/",
+        "description": "Nonpartisan voter resource hub with 2026 general election calendar, absentee ballot guidance, links to Hamilton County BOE, Vote411, and voter rights resources for returning citizens. Notes key dates: Oct 5 registration, Oct 6 early voting start, Nov 3 Election Day.",
+        "governingAuthority": "Cincinnati & Hamilton County Public Library",
+        "sourceType": "secondary",
+        "sourceId": "src-hamilton-boe",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-oh01-001",
+        "title": "OH-01 dashboard initialized — 12 sources, 15 events, 12 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. All 12 sources (OH SOS, Hamilton/Warren county BOEs, ORC Title 35, Ballotpedia, 10TV, Ohio Star, WLWT, WCPO, Wilmington News-Journal) verified reachable. 15 election events and 12 voting rules researched from OH SOS and Ohio Revised Code Title 35, all marked needsReview/unconfirmed pending authoritative confirmation from Hamilton and Warren county BOEs. Primary (May 5, 2026) certified by SOS June 7.",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-hamilton-boe",
+          "src-warren-boe"
+        ],
+        "detectedAt": "2026-06-11T20:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-oh01-002",
+        "title": "OH-01 primary certified — Landsman (D) vs Conroy (R) set for November general",
+        "fieldChanged": "General election candidates",
+        "oldValue": "Primary pending (May 5, 2026)",
+        "newValue": "Greg Landsman (D, incumbent) and Eric Conroy (R, Air Force veteran/CIA case officer, Trump-endorsed) advance to the November 3, 2026 general election. Libertarian John Hancock also qualified. SOS LaRose certified primary results June 7, 2026. Race rated Toss-up / Lean Republican per Cook PVI and redistricting analysis adding Republican-leaning precincts.",
+        "sourceIds": [
+          "src-oh-sos-elections",
+          "src-wcpo",
+          "src-ballotpedia-oh01"
+        ],
+        "detectedAt": "2026-06-07T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-oh01-003",
+        "title": "All rules and event dates flagged for county-level verification — QA pending",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "12 voting rules and 15 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Priority items for verification: (1) SB 293 absentee ballot receipt deadline for non-UOCAVA voters (Election Day vs. prior 10-day grace period), (2) HB 472 mail-ID-copy requirement effective date confirmation (2027 only), (3) SJR 10 ballot placement confirmation, (4) drop box hours and exact location for Hamilton and Warren BOEs. Verify all dates with Hamilton and Warren county BOEs before publish.",
+        "sourceIds": [
+          "src-oh-revised-code-title35",
+          "src-oh-sos-elections",
+          "src-hamilton-boe"
+        ],
+        "detectedAt": "2026-06-11T20:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-oh01-001",
+        "factInQuestion": "Absentee ballot receipt deadline for non-UOCAVA voters under SB 293 vs. prior Ohio law and Hamilton County BOE guidance",
+        "sourceAId": "src-oh-revised-code-title35",
+        "sourceAClaim": "SB 293 (eff. April 2024) amended ORC § 3509.05 to require that absentee ballots from non-UOCAVA (domestic) voters be received at the county BOE by close of polls on Election Day (7:30 PM) to be counted — eliminating the prior 10-day postmark-plus-receipt window for domestic absentee voters.",
+        "sourceBId": "src-hamilton-boe",
+        "sourceBClaim": "Hamilton County BOE voter guides and the Cincinnati & Hamilton County Public Library's 2026 voter resource guide have referenced the earlier, more voter-friendly rule (ballots postmarked by Election Day and received within 4 days). SB 293's tightening of the domestic absentee receipt deadline may not yet be reflected in all county-level voter-facing communications as of June 2026.",
+        "whyItMatters": "OH-01 absentee voters who mail their ballot close to Election Day risk having it arrive too late to be counted if the new SB 293 rule applies. A voter following older county-published guidance (4-day receipt window) could have a valid ballot rejected. This is a high-stakes discrepancy affecting potentially thousands of Hamilton and Warren county absentee voters.",
+        "suggestedReviewAction": "Confirm the exact absentee ballot receipt deadline for domestic (non-UOCAVA) OH-01 voters with Hamilton County BOE and Warren County BOE before publish. Update evt-oh01-general-ballot-receipt-deadline and rule-oh-absentee-no-excuse with the verified deadline. If SB 293 is confirmed to eliminate the grace period, add a prominent warning to voter-facing materials.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T20:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-oh01-001",
+        "headline": "Ohio SOS LaRose Certifies May 5 Primary Results; Launches Election Integrity Transparency Portal",
+        "sourceName": "Ohio Secretary of State (Frank LaRose Instagram / ohiosos.gov Week in Review)",
+        "url": "https://www.instagram.com/reel/DZTSHXUiJhG/",
+        "publishedAt": "2026-06-07",
+        "relevanceSummary": "Secretary of State Frank LaRose announced in his June 5–7 Week in Review that he had officially certified the 2026 Ohio Primary Election results following the completion of the statewide canvass — a step that formally locks in Greg Landsman and Eric Conroy as the OH-01 general-election nominees. LaRose also unveiled a new public-facing online portal giving Ohioans access to Election Integrity Unit case records and Ohio Election Integrity Commission decisions. A concurrent cyber defense initiative deployment was also announced. These certifications and transparency measures directly affect Hamilton County Board of Elections, which administers votes in the Cincinnati-area core of OH-01.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-002",
+        "headline": "Ohio House Passes SJR 10, Sending Voter Photo ID Constitutional Amendment to November Ballot",
+        "sourceName": "Ohio House of Representatives (Republican Caucus press release)",
+        "url": "https://ohiohouse.gov/news/republican/house-republicans-pass-resolution-aimed-at-strengthening-our-elections-by-placing-voter-id-requirements-in-the-state-constitution-145722",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "The Ohio House passed Senate Joint Resolution 10 on a 61-27 vote on June 10, 2026 — the required 60-vote supermajority — placing a constitutional amendment on the November 3 ballot that would enshrine existing photo ID requirements in the Ohio Constitution. While photo ID has been Ohio law since April 2023, codifying it constitutionally would prevent future legislative or judicial repeal without another statewide vote. The measure goes directly to OH-01 general-election voters in Hamilton and Warren counties, who will see it on the same November 3 ballot as the Landsman-Conroy congressional race.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-003",
+        "headline": "Ohio Lawmakers Fast-Track HB 472 to Require Photo ID for Mail-In Voting Starting 2027",
+        "sourceName": "Signal Ohio",
+        "url": "https://signalohio.org/ohio-new-photo-id-requirement-for-mail-voting-for-2027-election/",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "House Bill 472 — originally a bipartisan bill to help homeless Ohioans get free ID documents — was amended at the last minute to require voters to enclose a photo ID copy when returning absentee ballots, effective ahead of the November 2027 election. The bill passed the House 60-34 and the Senate 23-10, and is headed to Governor DeWine's desk; voting in the November 2026 general election (including OH-01) is unaffected this cycle. Election officials statewide, including concerns raised by the Ohio Secretary of State about rushed implementation, flagged significant administrative costs and potential confusion — relevant to Hamilton County Board of Elections operations preparing for the November 3, 2026 general election.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-004",
+        "headline": "Voter Rights Coalition Condemns Sub. HB 472 as Attack on Absentee Voting",
+        "sourceName": "ACLU of Ohio",
+        "url": "https://www.acluohio.org/press-releases/voter-rights-coalition-condemns-sub-house-bill-472-lawmakers-latest-effort-to-dismantle-absentee-voting/",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "The ACLU of Ohio and the Ohio Voter Rights Coalition issued a joint condemnation of HB 472, calling it an 'egregious attempt to disenfranchise Ohio voters who utilize mail-in voting.' The coalition cited privacy risks, unfunded mandates on county boards of elections, and undue burdens on elderly, disabled, rural, and veteran voters who rely on mail ballots — demographics present throughout OH-01's Hamilton and Warren county base. The statement calls for stripping the mail-voting language from HB 472. This is potential litigation groundwork: civil rights organizations have previously challenged restrictive Ohio voting laws (including SB 293 and HB 458) in federal court.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-005",
+        "headline": "Cincinnati & Hamilton County Public Library Updates 2026 General Election Voter Resource Guide",
+        "sourceName": "Cincinnati & Hamilton County Public Library",
+        "url": "https://chpl.org/services/voting/",
+        "publishedAt": "2026-05-28",
+        "relevanceSummary": "The Cincinnati & Hamilton County Public Library — a nonpartisan voter resource hub serving the heart of OH-01 — has published its updated 2026 general election calendar, noting that absentee ballots returned by mail must now be received at the Hamilton County Board of Elections by close of polls on Election Day (a change from the prior year under SB 293, which eliminated the 4-day grace period for non-UOCAVA voters). Key upcoming dates include: Oct. 5 voter registration deadline; Oct. 6 absentee-by-mail and early in-person voting begins; Nov. 3 Election Day. The library also links to Vote411, the Hamilton County BOE, the Hamilton County Office of Reentry (voting rights for returning citizens), and nonpartisan voter collaborative partners — making it a primary voter-resource touchpoint for OH-01 residents.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-006",
+        "headline": "Trump-Backed Eric Conroy Wins Republican Primary for Ohio's 1st Congressional District",
+        "sourceName": "WCPO 9 Cincinnati",
+        "url": "https://www.wcpo.com/news/government/elections-local/trump-backed-eric-conroy-wins-republican-primary-for-ohios-1st-congressional-district",
+        "publishedAt": "2026-05-06",
+        "relevanceSummary": "Air Force veteran and former CIA case officer Eric Conroy won the May 5 Republican primary for OH-01 with 71.88% of the vote (25,603 votes), defeating Holly Adams and Rosemary Oglesby-Henry. Conroy, a Cincinnati west-side native who was endorsed by President Trump on Truth Social in mid-April, will face incumbent Rep. Greg Landsman (D) in the November 3 general election. With Ohio's primary now certified (June 7, per SOS LaRose), both nominees are set for what independent analysts describe as a toss-up race shaped by 2025 redistricting that added Republican-leaning Clinton County to the district while retaining Hamilton and Warren counties.",
+        "tag": "primary",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-oh-01-initial",
+      "startedAt": "2026-06-11T20:00:00Z",
+      "completedAt": "2026-06-11T20:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 12,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. All 12 sources verified. OH-01 primary (May 5) is complete and SOS-certified (June 7): Landsman (D) and Conroy (R) advance to the November 3 general; Libertarian John Hancock also qualified. General election timeline events and Ohio voting rules researched from OH SOS and ORC Title 35. All events and rules marked needsReview/unconfirmed. Key conflict flagged: SB 293 absentee receipt deadline discrepancy between statute and some county-published guidance. HB 472 photo-ID-for-mail-voting pending DeWine signature but effective 2027 only — does not affect November 2026 general."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T20:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-oh01-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 12,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 15,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. OH-01 dashboard created post-primary. Landsman (D) vs. Conroy (R) vs. Hancock (L) set for November 3. Primary certified June 7. Notable legislative activity: SJR 10 (photo ID constitutional amendment to November ballot) passed June 10; HB 472 (mail voting photo ID, 2027-effective) passed and headed to Governor. One high-severity conflict flagged: SB 293 absentee receipt deadline ambiguity (Election Day cutoff vs. earlier county guidance). General election timeline covers registration (~Oct 5), absentee window opens (Sep 8), early voting start (Oct 6), absentee request deadline (Oct 31), Election Day (Nov 3), UOCAVA receipt deadline (Nov 7), canvass (~Nov 24), SOS certification (~Dec 1). All 12 sources and 15 events and 12 rules flagged needsReview pending county verification.",
+      "generatedAt": "2026-06-11T20:45:00Z"
+    }
+  }
+}
