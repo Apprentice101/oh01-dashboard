@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:55:28.093Z",
-  "exportedAt": "2026-07-01T20:03:50.653Z",
+  "exportedAt": "2026-07-02T04:25:07.557Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -393,8 +393,8 @@
           "src-ballotpedia-oh01",
           "src-wcpo"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -460,7 +460,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "ORC § 3505.18 (as amended by HB 458, eff. April 7, 2023). SJR 10 on November 2026 ballot would enshrine photo ID requirement in the Ohio Constitution, preventing future legislative/judicial repeal without a statewide vote."
       },
       {
@@ -637,7 +637,7 @@
       {
         "id": "rule-oh-sjr10-photo-id-constitutional-amendment",
         "topic": "SJR 10 — Voter photo ID constitutional amendment on November 2026 ballot",
-        "currentRule": "The Ohio House passed Senate Joint Resolution 10 on June 10, 2026 (61–27) placing a constitutional amendment on the November 3, 2026 ballot that would enshrine the existing HB 458 photo ID requirement in the Ohio Constitution. If passed by voters, it would prevent future repeal by the legislature or courts without another statewide vote. Current photo ID law (HB 458) remains in effect regardless of SJR 10's outcome.",
+        "currentRule": "The Ohio General Assembly passed Senate Joint Resolution 10 in June 2026 — the Senate adopted it June 3, 2026 (22–9); the House adopted it June 10, 2026 (61–27), both clearing the required three-fifths supermajority. The measure will appear on the November 3, 2026 ballot as a statewide constitutional amendment to enshrine Ohio's existing HB 458 in-person photo ID requirement in the state Constitution. The amendment does not change how ballots are cast in November 2026 — current photo ID law (HB 458) remains in effect regardless of the outcome. If passed by voters, it would prevent future legislative or judicial repeal without another statewide vote. The amendment covers in-person photo ID only; a separate bill, HB 472, would require a photocopy of ID for mail ballots starting with the November 2027 elections. Governor's signature not required for joint resolutions.",
         "status": "watch",
         "whyItMatters": "OH-01 voters will see SJR 10 on the same November 3 ballot as the Landsman vs. Conroy congressional race. The amendment's passage would permanently constitutionalize photo ID requirements, limiting future flexibility for voter access legislation. The ACLU and voting rights groups have signaled potential litigation.",
         "governingLevel": "statewide",
@@ -646,9 +646,9 @@
           "src-ballotpedia-oh01",
           "src-wcpo"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
+        "needsReview": false,
         "detail": "SJR 10 passed Ohio House 61-27 on June 10, 2026, clearing the required 60-vote supermajority. Goes directly to voters on November 3, 2026 ballot. Does not require Governor's signature."
       }
     ],
