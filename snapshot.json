@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:30:37.503Z",
-  "exportedAt": "2026-07-03T00:37:49.072Z",
+  "updatedAt": "2026-07-03T01:34:57.515Z",
+  "exportedAt": "2026-07-03T01:43:14.411Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -80,7 +80,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-oh-sos-ballot-tracker": {
@@ -873,16 +873,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-oh01-auto",
-      "startedAt": "2026-07-03T00:28:37.660Z",
-      "completedAt": "2026-07-03T00:30:37.503Z",
+      "startedAt": "2026-07-03T01:33:18.784Z",
+      "completedAt": "2026-07-03T01:34:57.515Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 32,
+      "sourcesChecked": 27,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for OH-01. Sources checked: 32. LLM verifications: 24. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for OH-01. Sources checked: 27. LLM verifications: 20. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:30:37.503Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:34:57.515Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
