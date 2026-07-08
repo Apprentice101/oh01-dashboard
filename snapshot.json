@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:25:49.098Z",
-  "exportedAt": "2026-07-08T06:29:13.243Z",
+  "updatedAt": "2026-07-08T19:38:46.845Z",
+  "exportedAt": "2026-07-08T19:43:53.932Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -873,16 +873,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-oh01-auto",
-      "startedAt": "2026-07-08T06:24:24.797Z",
-      "completedAt": "2026-07-08T06:25:49.098Z",
+      "startedAt": "2026-07-08T19:37:25.534Z",
+      "completedAt": "2026-07-08T19:38:46.845Z",
       "triggerType": "scheduled",
       "sourcesChecked": 35,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for OH-01. Sources checked: 35. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for OH-01. Sources checked: 35. LLM verifications: 25. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:25:49.098Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:38:46.845Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
