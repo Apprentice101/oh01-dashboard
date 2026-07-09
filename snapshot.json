@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:38:46.845Z",
-  "exportedAt": "2026-07-08T20:35:56.233Z",
+  "exportedAt": "2026-07-09T17:04:41.954Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -654,93 +654,83 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-oh-sos-elections",
-        "label": "Ohio Secretary of State — Elections portal",
-        "url": "https://www.ohiosos.gov/elections/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Ohio elections hub: voter registration, absentee voting, election calendar, results, and county BOE links. Authoritative source for OH-01 election deadlines and photo ID requirements.",
+        "url": "https://www.ohiosos.gov/elections/",
         "governingAuthority": "Ohio Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-oh-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-oh-voter-registration",
-        "label": "Ohio SOS — Voter Registration portal",
-        "url": "https://www.ohiosos.gov/elections/voters/",
+        "id": "res-locations",
+        "label": "Find voting locations",
         "description": "Register to vote, update your registration, check your registration status, find your polling place, and request an absentee ballot. Deadline for 2026 general: approximately October 4–5, 2026 (30 days before Nov 3).",
+        "url": "https://www.ohiosos.gov/elections/voters/",
         "governingAuthority": "Ohio Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-oh-sos-voter-registration",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-oh-ballot-tracker",
-        "label": "Ohio SOS — Absentee Ballot Tracker",
-        "url": "https://www.ohiosos.gov/elections/voters/absentee-ballot-tracker/",
-        "description": "Track your absentee ballot request and return status in Ohio. Check whether your ballot has been received and processed by Hamilton or Warren County BOE.",
-        "governingAuthority": "Ohio Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-oh-sos-ballot-tracker",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-hamilton-boe",
-        "label": "Hamilton County Board of Elections (votehamiltoncounty.gov)",
-        "url": "https://votehamiltoncounty.gov/",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
         "description": "Official elections page for Hamilton County voters (Cincinnati, Blue Ash, Norwood, Anderson Township area) — the core of OH-01. Absentee ballot requests, drop box location (824 Broadway), early voting schedule, and precinct finder. Phone: (513) 632-7000.",
+        "url": "https://votehamiltoncounty.gov/",
         "governingAuthority": "Hamilton County Board of Elections",
         "sourceType": "official-county",
         "sourceId": "src-hamilton-boe",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-warren-boe",
-        "label": "Warren County Board of Elections",
-        "url": "https://www.co.warren.oh.us/board_of_elections/",
-        "description": "Official elections page for Warren County voters (Mason, Springboro, Lebanon area) in the OH-01 portion of Warren County. Absentee ballot requests, drop box location, and precinct finder.",
-        "governingAuthority": "Warren County Board of Elections",
-        "sourceType": "official-county",
-        "sourceId": "src-warren-boe",
-        "lastVerified": "2026-06-11"
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Register to vote, update your registration, check your registration status, find your polling place, and request an absentee ballot. Deadline for 2026 general: approximately October 4–5, 2026 (30 days before Nov 3).",
+        "url": "https://www.ohiosos.gov/elections/voters/",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-voter-registration",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track your absentee ballot request and return status in Ohio. Check whether your ballot has been received and processed by Hamilton or Warren County BOE.",
+        "url": "https://www.ohiosos.gov/elections/voters/absentee-ballot-tracker/",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-ballot-tracker",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Ohio live election results (SOS).",
+        "url": "https://liveresults.ohiosos.gov/",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-ballotpedia-oh01",
         "label": "Ballotpedia — OH-01 2026 election",
-        "url": "https://ballotpedia.org/Ohio%27s_1st_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for OH-01's 2026 election: candidate profiles, primary results (Landsman D vs Conroy R vs Hancock L), race ratings, campaign finance summary.",
+        "url": "https://ballotpedia.org/Ohio%27s_1st_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-oh01",
         "lastVerified": "2026-06-11"
       },
       {
-        "id": "res-oh-revised-code-title35",
-        "label": "Ohio Revised Code Title 35 — Elections (statutory reference)",
-        "url": "https://codes.ohio.gov/ohio-revised-code/title-35",
-        "description": "Full text of Ohio's elections statutes. Key sections: ORC § 3503.06 (registration deadline), § 3509 (absentee voting), § 3505.18 (photo ID, as amended by HB 458), § 3501.30 (poll hours).",
-        "governingAuthority": "Ohio Legislature",
-        "sourceType": "statutory",
-        "sourceId": "src-oh-revised-code-title35",
-        "lastVerified": "2026-06-11"
-      },
-      {
         "id": "res-wcpo-elections",
         "label": "WCPO 9 Cincinnati — Elections coverage",
-        "url": "https://www.wcpo.com/news/government/elections-local",
         "description": "WCPO's local elections news hub covering OH-01, Hamilton County, and Cincinnati metro. Reported on Conroy's May 5 primary win and OH-01 general election developments.",
+        "url": "https://www.wcpo.com/news/government/elections-local",
         "governingAuthority": "WCPO (Scripps)",
         "sourceType": "news",
         "sourceId": "src-wcpo",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-chpl-voter-guide",
-        "label": "Cincinnati & Hamilton County Public Library — 2026 Voter Resource Guide",
-        "url": "https://chpl.org/services/voting/",
-        "description": "Nonpartisan voter resource hub with 2026 general election calendar, absentee ballot guidance, links to Hamilton County BOE, Vote411, and voter rights resources for returning citizens. Notes key dates: Oct 5 registration, Oct 6 early voting start, Nov 3 Election Day.",
-        "governingAuthority": "Cincinnati & Hamilton County Public Library",
-        "sourceType": "secondary",
-        "sourceId": "src-hamilton-boe",
         "lastVerified": "2026-06-11"
       }
     ],
