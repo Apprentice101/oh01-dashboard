@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:38:46.845Z",
-  "exportedAt": "2026-07-09T17:04:41.954Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:31:06.875Z",
+  "exportedAt": "2026-07-15T06:41:00.343Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -104,7 +104,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -140,7 +140,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-10tv": {
@@ -859,20 +859,30 @@
         "relevanceSummary": "Air Force veteran and former CIA case officer Eric Conroy won the May 5 Republican primary for OH-01 with 71.88% of the vote (25,603 votes), defeating Holly Adams and Rosemary Oglesby-Henry. Conroy, a Cincinnati west-side native who was endorsed by President Trump on Truth Social in mid-April, will face incumbent Rep. Greg Landsman (D) in the November 3 general election. With Ohio's primary now certified (June 7, per SOS LaRose), both nominees are set for what independent analysts describe as a toss-up race shaped by 2025 redistricting that added Republican-leaning Clinton County to the district while retaining Hamilton and Warren counties.",
         "tag": "primary",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-021r5uq",
+        "headline": "Decisions from the statehouse & Washington that will impact your November ballot",
+        "sourceName": "Spectrum News 1 Ohio",
+        "url": "https://spectrumnews1.com/oh/columbus/Capital-This-Week/2026/07/01/decisions-from-the-statehouse---washington-that-will-impact-your-november-ballot",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "This Ohio roundup says Governor Mike DeWine vetoed a bill that would have required photo identification for mail-in ballots, which directly affects voting rules for Ohio voters in OH-01. It also reports a U.S. Supreme Court ruling that ballots mailed by Election Day but received later must be counted if postmarked on time, a procedural change relevant to absentee voters in the district.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-oh01-auto",
-      "startedAt": "2026-07-08T19:37:25.534Z",
-      "completedAt": "2026-07-08T19:38:46.845Z",
+      "id": "run-2026-07-15-oh01-auto",
+      "startedAt": "2026-07-15T06:28:14.872Z",
+      "completedAt": "2026-07-15T06:31:06.875Z",
       "triggerType": "scheduled",
       "sourcesChecked": 35,
-      "updatesCreated": 0,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for OH-01. Sources checked: 35. LLM verifications: 25. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for OH-01. Sources checked: 35. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:38:46.845Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:31:06.875Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
