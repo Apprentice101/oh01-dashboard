@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-22",
   "updatedAt": "2026-07-22T06:42:18.723Z",
-  "exportedAt": "2026-07-22T20:58:28.669Z",
+  "exportedAt": "2026-07-22T21:17:37.736Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -905,7 +905,7 @@
         "url": "https://www.wcpo.com/news/government/elections-local/trump-backed-eric-conroy-wins-republican-primary-for-ohios-1st-congressional-district",
         "publishedAt": "2026-05-06",
         "relevanceSummary": "Air Force veteran and former CIA case officer Eric Conroy won the May 5 Republican primary for OH-01 with 71.88% of the vote (25,603 votes), defeating Holly Adams and Rosemary Oglesby-Henry. Conroy, a Cincinnati west-side native who was endorsed by President Trump on Truth Social in mid-April, will face incumbent Rep. Greg Landsman (D) in the November 3 general election. With Ohio's primary now certified (June 7, per SOS LaRose), both nominees are set for what independent analysts describe as a toss-up race shaped by 2025 redistricting that added Republican-leaning Clinton County to the district while retaining Hamilton and Warren counties.",
-        "tag": "primary",
+        "tag": "candidates",
         "reviewState": "new"
       },
       {
