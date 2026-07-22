@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:31:06.875Z",
-  "exportedAt": "2026-07-15T06:41:00.343Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:42:18.723Z",
+  "exportedAt": "2026-07-22T06:52:32.477Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -80,7 +80,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-oh-sos-ballot-tracker": {
@@ -104,7 +104,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -140,7 +140,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-10tv": {
@@ -869,20 +869,30 @@
         "relevanceSummary": "This Ohio roundup says Governor Mike DeWine vetoed a bill that would have required photo identification for mail-in ballots, which directly affects voting rules for Ohio voters in OH-01. It also reports a U.S. Supreme Court ruling that ballots mailed by Election Day but received later must be counted if postmarked on time, a procedural change relevant to absentee voters in the district.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0drb57g",
+        "headline": "Ohio sec. of state candidates split on mail-in voter ID bill DeWine is considering a veto on",
+        "sourceName": "WCPO",
+        "url": "https://www.wcpo.com/news/state/state-ohio/ohio-sec-of-state-candidates-split-on-mail-in-voter-id-bill-dewine-is-considering-a-veto-on",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "This article explains a newly passed Ohio bill that would add a photo ID requirement to vote-by-mail applications and require the state to build an online portal for submitting ID and signatures, changes that would directly affect how OH-01 voters request and submit mail-in ballots if the bill takes effect.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-oh01-auto",
-      "startedAt": "2026-07-15T06:28:14.872Z",
-      "completedAt": "2026-07-15T06:31:06.875Z",
+      "id": "run-2026-07-22-oh01-auto",
+      "startedAt": "2026-07-22T06:39:27.723Z",
+      "completedAt": "2026-07-22T06:42:18.723Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 35,
+      "sourcesChecked": 33,
       "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for OH-01. Sources checked: 35. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for OH-01. Sources checked: 33. LLM verifications: 24. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:31:06.875Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:42:18.723Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
