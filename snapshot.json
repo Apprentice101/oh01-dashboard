@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-22",
   "updatedAt": "2026-07-22T06:42:18.723Z",
-  "exportedAt": "2026-07-22T06:52:32.477Z",
+  "exportedAt": "2026-07-22T20:58:28.669Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -94,6 +94,19 @@
         "dateAccessed": "2026-06-11",
         "lastVerified": "2026-06-11",
         "confidence": "high"
+      },
+      "src-oh-sos-faq": {
+        "id": "src-oh-sos-faq",
+        "name": "Ohio Secretary of State — Frequently Asked Questions (Identification & Envelope)",
+        "short": "OH SOS FAQ",
+        "url": "https://www.ohiosos.gov/elections/frequently-asked-questions#identification-envelope",
+        "publisher": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-22",
+        "lastVerified": "2026-07-22",
+        "confidence": "high",
+        "notes": "Authoritative SOS answer on absentee-ballot return: non-UOCAVA ballots must be received by 7:30 PM on Election Day; UOCAVA voters have a 4-day post-Election Day window."
       },
       "src-oh-revised-code-title35": {
         "id": "src-oh-revised-code-title35",
@@ -399,19 +412,36 @@
       },
       {
         "id": "evt-oh01-general-ballot-receipt-deadline",
-        "milestone": "Absentee ballot receipt deadline — general",
+        "milestone": "Absentee ballot receipt deadline — general (non-UOCAVA)",
         "electionType": "general",
-        "date": "2026-11-07",
-        "significance": "Under SB 293 (effective 2024), absentee ballots for standard (non-UOCAVA) voters must be received at the county BOE by close of polls on Election Day (7:30 PM, Nov 3). UOCAVA (military/overseas) voters: ballots postmarked by Election Day and received within 4 days (by Nov 7) are counted. NOTE: Prior Ohio law allowed a 10-day post-election receipt window for all absentee voters — SB 293 eliminated that grace period for domestic voters. Verify current rule with Hamilton BOE.",
+        "date": "2026-11-03",
+        "significance": "Per the Ohio Secretary of State and SB 293 (eff. 2024, amending ORC § 3509.05), absentee ballots from non-UOCAVA (standard domestic) voters must be received at the county Board of Elections by 7:30 PM on Election Day — Tuesday, November 3, 2026 — to be counted. Ballots arriving after 7:30 PM on Election Day are rejected. UOCAVA (military/overseas) voters have a separate 4-day post-Election Day receipt window through November 7 (see evt-oh01-general-ballot-receipt-deadline-uocava). SB 293 eliminated the prior 10-day post-election grace period that used to apply to domestic absentee voters.",
         "governingAuthority": "Hamilton County BOE, Warren County BOE",
         "sourceIds": [
+          "src-oh-sos-faq",
           "src-oh-sos-elections",
           "src-oh-revised-code-title35",
           "src-hamilton-boe"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
-        "status": "estimated"
+        "confidence": "high",
+        "lastVerified": "2026-07-22",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-oh01-general-ballot-receipt-deadline-uocava",
+        "milestone": "Absentee ballot receipt deadline — general (UOCAVA)",
+        "electionType": "general",
+        "date": "2026-11-07",
+        "significance": "UOCAVA voters (uniformed services and overseas civilians) whose ballots are postmarked or otherwise dated on or before Election Day may be received by the county Board of Elections through the fourth day after Election Day — Saturday, November 7, 2026 — and still be counted. This UOCAVA-only extension does not apply to domestic (non-UOCAVA) absentee voters, whose ballots must arrive by 7:30 PM on Election Day (see evt-oh01-general-ballot-receipt-deadline).",
+        "governingAuthority": "Hamilton County BOE, Warren County BOE",
+        "sourceIds": [
+          "src-oh-sos-faq",
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-07-22",
+        "status": "confirmed"
       },
       {
         "id": "evt-oh01-general-canvass-deadline",
@@ -483,19 +513,20 @@
       {
         "id": "rule-oh-absentee-no-excuse",
         "topic": "No-excuse absentee (vote-by-mail) voting",
-        "currentRule": "Any qualified Ohio voter may request and cast an absentee ballot without providing a reason. Voters must submit a written absentee ballot application (by mail, in person, or using the Secretary of State’s online absentee application form). Absentee ballots are available beginning the day after the close of voter registration for the election and must be requested and cast by the deadlines specified in the Ohio Secretary of State’s absentee voting schedule.",
+        "currentRule": "Any qualified Ohio voter may request and cast an absentee ballot without providing a reason. Voters must submit a written absentee ballot application (by mail, in person, or using the Secretary of State’s online absentee application form). Absentee ballots are available beginning the day after the close of voter registration for the election and must be requested and cast by the deadlines specified in the Ohio Secretary of State’s absentee voting schedule. Non-UOCAVA (standard domestic) absentee ballots returned by mail must be received by the county Board of Elections by 7:30 PM on Election Day — not merely postmarked by Election Day — to be counted, per the Ohio Secretary of State and SB 293 (eff. 2024). UOCAVA (uniformed services and overseas) voters have a separate 4-day post-Election Day receipt window.",
         "status": "active",
-        "whyItMatters": "OH-01 voters in Hamilton and Warren counties may vote by mail without any excuse. Requests should be submitted well in advance of the October 31 deadline to allow time for mailing and return.",
+        "whyItMatters": "OH-01 voters in Hamilton and Warren counties may vote by mail without any excuse. Requests should be submitted well in advance of the October 31 deadline, and mailed ballots should be sent early enough to arrive at the county BOE by 7:30 PM on Election Day — a ballot postmarked on Election Day but arriving later will be rejected (non-UOCAVA voters only).",
         "governingLevel": "statewide",
         "sourceIds": [
+          "src-oh-sos-faq",
           "src-oh-sos-elections",
           "src-oh-revised-code-title35",
           "src-hamilton-boe"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
-        "needsReview": true,
-        "detail": "ORC § 3509.03. Requests accepted from 90 days before election through the Saturday before Election Day. HB 472 (pending Governor DeWine signature as of June 2026) would add a photo ID copy requirement for absentee ballots — but only effective ahead of the 2027 election cycle, NOT November 2026."
+        "confidence": "high",
+        "lastVerified": "2026-07-22",
+        "needsReview": false,
+        "detail": "ORC §§ 3509.03 and 3509.05 (as amended by SB 293, eff. 2024). Requests accepted from 90 days before election through the Saturday before Election Day. Non-UOCAVA receipt deadline: 7:30 PM Election Day at the county BOE. UOCAVA receipt deadline: 4 days after Election Day if the ballot is dated/postmarked on or before Election Day. HB 472 (pending Governor DeWine signature as of June 2026) would add a photo ID copy requirement for absentee ballots — but only effective ahead of the 2027 election cycle, NOT November 2026."
       },
       {
         "id": "rule-oh-registration-deadline-30-days",
@@ -736,6 +767,23 @@
     ],
     "UPDATES": [
       {
+        "id": "upd-oh01-004",
+        "title": "Absentee ballot receipt deadline corrected — non-UOCAVA voters must return by 7:30 PM on Election Day (Nov 3)",
+        "fieldChanged": "evt-oh01-general-ballot-receipt-deadline (date and confidence); rule-oh-absentee-no-excuse",
+        "oldValue": "Absentee ballot receipt deadline shown as Nov 7, 2026 (unconfirmed)",
+        "newValue": "Non-UOCAVA absentee ballots must be received at the county Board of Elections by 7:30 PM on Election Day — Tuesday, November 3, 2026 — to be counted, per the Ohio Secretary of State and SB 293 (eff. 2024, amending ORC § 3509.05). UOCAVA (uniformed services and overseas) voters retain a separate 4-day post-Election Day receipt window through November 7, now tracked as evt-oh01-general-ballot-receipt-deadline-uocava. The dashboard’s Absentee Ballot tile now shows Nov 3 with a UOCAVA-through-Nov-7 helper. Confidence raised to high; SB 293 receipt-deadline conflict resolved with the SOS FAQ as the authoritative source.",
+        "sourceIds": [
+          "src-oh-sos-faq",
+          "src-oh-sos-elections",
+          "src-oh-revised-code-title35"
+        ],
+        "detectedAt": "2026-07-22T20:45:00Z",
+        "severity": "high",
+        "reviewState": "reviewed",
+        "visibility": "public",
+        "changeKind": "correction"
+      },
+      {
         "id": "upd-oh01-001",
         "title": "OH-01 dashboard initialized — 12 sources, 15 events, 12 rules wired",
         "fieldChanged": "Dashboard configuration",
@@ -793,9 +841,9 @@
         "sourceBId": "src-hamilton-boe",
         "sourceBClaim": "Hamilton County BOE voter guides and the Cincinnati & Hamilton County Public Library's 2026 voter resource guide have referenced the earlier, more voter-friendly rule (ballots postmarked by Election Day and received within 4 days). SB 293's tightening of the domestic absentee receipt deadline may not yet be reflected in all county-level voter-facing communications as of June 2026.",
         "whyItMatters": "OH-01 absentee voters who mail their ballot close to Election Day risk having it arrive too late to be counted if the new SB 293 rule applies. A voter following older county-published guidance (4-day receipt window) could have a valid ballot rejected. This is a high-stakes discrepancy affecting potentially thousands of Hamilton and Warren county absentee voters.",
-        "suggestedReviewAction": "Confirm the exact absentee ballot receipt deadline for domestic (non-UOCAVA) OH-01 voters with Hamilton County BOE and Warren County BOE before publish. Update evt-oh01-general-ballot-receipt-deadline and rule-oh-absentee-no-excuse with the verified deadline. If SB 293 is confirmed to eliminate the grace period, add a prominent warning to voter-facing materials.",
+        "suggestedReviewAction": "Resolved 2026-07-22: Ohio Secretary of State FAQ (src-oh-sos-faq) authoritatively confirms non-UOCAVA ballots must be received by 7:30 PM on Election Day; UOCAVA voters have a 4-day window. evt-oh01-general-ballot-receipt-deadline updated to 2026-11-03 with confidence high; separate UOCAVA event added at 2026-11-07; rule-oh-absentee-no-excuse updated with SB 293 receipt-deadline language.",
         "severity": "high",
-        "status": "unresolved",
+        "status": "resolved",
         "createdAt": "2026-06-11T20:00:00Z"
       }
     ],
