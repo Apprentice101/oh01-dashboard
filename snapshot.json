@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:42:18.723Z",
-  "exportedAt": "2026-07-22T21:17:37.736Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:46:08.706Z",
+  "exportedAt": "2026-07-29T06:56:12.309Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -80,7 +80,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-oh-sos-ballot-tracker": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-10tv": {
@@ -927,20 +927,100 @@
         "relevanceSummary": "This article explains a newly passed Ohio bill that would add a photo ID requirement to vote-by-mail applications and require the state to build an online portal for submitting ID and signatures, changes that would directly affect how OH-01 voters request and submit mail-in ballots if the bill takes effect.[1]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-00t804e",
+        "headline": "Will Ohio Republicans override Gov. DeWine's voter photo ID veto?",
+        "sourceName": "News 5 Cleveland",
+        "url": "https://www.news5cleveland.com/news/politics/ohio-politics/will-ohio-republicans-override-gov-dewines-voter-photo-id-veto",
+        "publishedAt": "2026-07-25",
+        "relevanceSummary": "This article details Ohio legislative efforts to potentially override the governor’s veto of a bill that would impose photo ID requirements for mail-in voting, outlining possible near-term changes to absentee ballot procedures and voter-ID rules that would apply to all OH-01 voters.[11]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0lfivvc",
+        "headline": "Ohio Gov. Mike DeWine vetoes bill requiring photo ID to mail-in vote",
+        "sourceName": "News 5 Cleveland",
+        "url": "https://www.news5cleveland.com/news/politics/ohio-politics/ohio-gov-mike-dewine-vetoes-bill-requiring-photo-id-to-mail-in-vote",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This statewide Ohio story explains that Gov. Mike DeWine vetoed a bill that would have required voters to include a photo ID with mail-in and absentee ballots, which directly affects mail-voting procedures and ID-copy requirements for OH-01 voters if lawmakers attempt an override or revise the proposal.[11]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ptgrq2",
+        "headline": "Voter photo ID amendment on Nov. ballot in Ohio",
+        "sourceName": "News 5 Cleveland",
+        "url": "https://www.news5cleveland.com/news/politics/ohio-politics/voter-photo-id-amendment-on-nov-ballot-in-ohio",
+        "publishedAt": "2026-07-20",
+        "relevanceSummary": "This piece explains that Ohio voters will decide a constitutional amendment in November to enshrine photo voter ID requirements, affecting in-person ID rules, acceptable identification documents, and provisional ballot procedures for all OH-01 voters.[11]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0o9tn9g",
+        "headline": "What is Issue 3 on the Ohio ballot?",
+        "sourceName": "News 5 Cleveland",
+        "url": "https://www.news5cleveland.com/news/politics/ohio-politics/what-is-issue-3-on-the-ohio-ballot",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "This explainer outlines Ohio’s current photo ID requirements for in-person voting—detailing which documents are acceptable and the elimination of non-photo options—and describes Issue 3, the proposed constitutional voter ID amendment, providing direct voter-info for OH-01 residents ahead of November.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0xdmj96",
+        "headline": "Ohio Republicans work to get voter photo ID on the ballot, enshrined in state constitution",
+        "sourceName": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2026/07/18/ohio-republicans-work-to-get-voter-photo-id-on-the-ballot-enshrined-in-state-constitution/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "Ohio Capital Journal’s coverage details the push to place a voter photo ID amendment on the statewide November ballot, explaining proposed constitutional language that would lock in photo ID requirements for voting and constrain future changes to Ohio election procedures impacting OH-01.[7]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0uvzx6r",
+        "headline": "Ohio Republican lawmakers send constitutional amendment requiring voter photo ID to ballot (Ohio Capital Journal reprint)",
+        "sourceName": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2026/07/17/ohio-republican-lawmakers-send-constitutional-amendment-requiring-voter-photo-id-to-ballot/",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This Ohio Capital Journal coverage reiterates that the legislature placed a voter photo ID constitutional amendment on the November ballot, emphasizing statewide changes to voter-ID rules and provisional ballot handling that would apply uniformly to OH-01 voters if approved.[7]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-00xhlxt",
+        "headline": "Ohio Republican lawmakers send constitutional amendment requiring voter photo ID to ballot",
+        "sourceName": "BG Independent News",
+        "url": "https://bgindependentmedia.org/ohio-republican-lawmakers-send-constitutional-amendment-requiring-voter-photo-id-to-ballot/",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This article reports that Ohio lawmakers approved a constitutional amendment for the November ballot to require photo ID to vote, describing how voters without valid photo ID would have to cast provisional ballots and later present ID at the county board of elections—rules that would govern OH-01 voters if adopted.[2]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-067ng7l",
+        "headline": "Rep. Melanie Miller votes on resolution aimed at strengthening elections by placing voter ID requirements in the state constitution",
+        "sourceName": "Ohio House of Representatives",
+        "url": "https://www.ohiohouse.gov/members/melanie-miller/news/rep-melanie-miller-votes-on-resolution-aimed-at-strengthening-elections-by-placing-voter-id-requirements-in-the-state-constitution-147233",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "This official House release describes the passage of Senate Joint Resolution 10, which sends a constitutional amendment to voters that would require a valid, unexpired government-issued photo ID to vote, clarifying acceptable ID documents and reinforcing statewide rules that would bind OH-01 voters.[4]",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-oh01-auto",
-      "startedAt": "2026-07-22T06:39:27.723Z",
-      "completedAt": "2026-07-22T06:42:18.723Z",
+      "id": "run-2026-07-29-oh01-auto",
+      "startedAt": "2026-07-29T06:43:14.539Z",
+      "completedAt": "2026-07-29T06:46:08.706Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 33,
-      "updatesCreated": 1,
+      "sourcesChecked": 34,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for OH-01. Sources checked: 33. LLM verifications: 24. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for OH-01. Sources checked: 34. LLM verifications: 24. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:42:18.723Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:46:08.706Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
