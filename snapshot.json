@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:46:08.706Z",
-  "exportedAt": "2026-07-29T06:56:12.309Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:39:48.072Z",
+  "exportedAt": "2026-08-05T06:49:54.656Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1007,20 +1007,50 @@
         "relevanceSummary": "This official House release describes the passage of Senate Joint Resolution 10, which sends a constitutional amendment to voters that would require a valid, unexpired government-issued photo ID to vote, clarifying acceptable ID documents and reinforcing statewide rules that would bind OH-01 voters.[4]",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0fuco5w",
+        "headline": "Ohio board OKs voter ID language for Nov. 3 ballots: Capitol Letter",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/08/ohio-board-oks-voter-id-language-for-nov-3-ballots-capitol-letter.html",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "The Ohio Ballot Board approved the exact wording voters will see for the November Issue 3 photo voter ID amendment, clarifying how the proposal to add the state’s photo ID voting rules to the constitution will be described to voters statewide, including those in OH-01.[11]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0mhpcp0",
+        "headline": "Ohio Ballot Board OKs language that puts Issue 3, or photo ID, on ballot",
+        "sourceName": "State News Ohio",
+        "url": "https://www.statenews.org/government-politics/2026-08-03/ohio-ballot-board-oks-language-that-puts-issue-3-or-photo-id-on-ballot",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "The Ohio Ballot Board finalized the ballot language for Issue 3, a constitutional amendment asking voters whether the state’s existing photo ID requirement for all in-person voting should be enshrined in the Ohio Constitution, potentially making future changes to voter ID rules much harder for OH-01 voters and all Ohioans.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0fmufui",
+        "headline": "Landsman Votes to Stop Insider Trading and Voter Suppression",
+        "sourceName": "Warren County Post",
+        "url": "https://warrencountypost.com/g/lebanon-oh/n/382464/landsman-votes-stop-insider-trading-and-voter-suppression",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "Covering OH-01 Rep. Greg Landsman, this piece reports his vote against a federal \"Stop Insider Trading Act\" he describes as a voter suppression bill that could block millions of Americans from voting without a photo ID showing their current name and address, signaling potential national voter-ID policy debates that could later impact Ohio’s election procedures.[1]",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-oh01-auto",
-      "startedAt": "2026-07-29T06:43:14.539Z",
-      "completedAt": "2026-07-29T06:46:08.706Z",
+      "id": "run-2026-08-05-oh01-auto",
+      "startedAt": "2026-08-05T06:36:42.153Z",
+      "completedAt": "2026-08-05T06:39:48.072Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 34,
-      "updatesCreated": 8,
+      "sourcesChecked": 36,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for OH-01. Sources checked: 34. LLM verifications: 24. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:46:08.706Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:39:48.072Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
