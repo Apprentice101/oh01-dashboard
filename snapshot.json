@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:39:48.072Z",
-  "exportedAt": "2026-08-05T06:49:54.656Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:40:26.476Z",
+  "exportedAt": "2026-08-12T05:49:13.923Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1037,20 +1037,70 @@
         "relevanceSummary": "Covering OH-01 Rep. Greg Landsman, this piece reports his vote against a federal \"Stop Insider Trading Act\" he describes as a voter suppression bill that could block millions of Americans from voting without a photo ID showing their current name and address, signaling potential national voter-ID policy debates that could later impact Ohio’s election procedures.[1]",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ugcjv6",
+        "headline": "Senate votes on Husted photo ID bill",
+        "sourceName": "Sen. Jon Husted press release",
+        "url": "https://www.husted.senate.gov/media/press-releases/senate-votes-on-husted-photo-id-bill/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "Sen. Jon Husted says the Senate voted 52-46 against advancing his bill to require voters to show photo ID at federal elections. While federal and not district-specific, it is directly relevant to Ohio voters because it concerns a proposed national voter-ID rule that would affect OH-01 if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0f4ufua",
+        "headline": "Ohio Ballot Board OKs language that puts Issue 3, or photo ID, on ballot",
+        "sourceName": "WOUB",
+        "url": "https://woub.org/2026/08/06/ohio-ballot-board-oks-language-that-puts-issue-3-or-photo-id-on-ballot/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "Ohio’s Ballot Board approved the ballot language for Issue 3, a statewide measure about requiring government-issued photo ID for in-person voting. That directly affects OH-01 voters because Ohio election rules apply statewide and the measure would lock current voter-ID rules into the state constitution.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0p7n3r1",
+        "headline": "Ohio voter ID amendment is officially headed to the November ballot",
+        "sourceName": "13abc",
+        "url": "https://www.13abc.com/2026/08/03/ohio-voter-id-amendment-is-officially-headed-november-ballot/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "This report says the Ohio Ballot Board approved the language for Issue 3, the statewide photo-ID constitutional amendment that will appear on the Nov. 3 general-election ballot. OH-01 voters need this because it is a statewide ballot issue affecting election procedure.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0qbhctl",
+        "headline": "Official language for Ohio's photo ID amendment approved for November ballot",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/08/official-language-for-ohios-photo-id-amendment-approved-for-november-ballot.html",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "The Ohio Ballot Board finalized the wording for the photo-ID amendment that will appear on the November ballot. The article also notes that Ohio already requires most in-person voters to show acceptable photo ID, which is important baseline information for OH-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0gcxxqn",
+        "headline": "What is Issue 3 on the Ohio ballot?",
+        "sourceName": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2026/07/29/what-is-issue-3-on-the-ohio-ballot/",
+        "publishedAt": "2026-07-29",
+        "relevanceSummary": "This explainer details Ohio’s current in-person voter-ID rules and the acceptable forms of ID, including state driver’s licenses, state ID cards, passports, military IDs, and related documents. That is directly useful to OH-01 voters preparing for the November election and for understanding the statewide Issue 3 proposal.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-oh01-auto",
-      "startedAt": "2026-08-05T06:36:42.153Z",
-      "completedAt": "2026-08-05T06:39:48.072Z",
+      "id": "run-2026-08-12-oh01-auto",
+      "startedAt": "2026-08-12T05:37:46.393Z",
+      "completedAt": "2026-08-12T05:40:26.476Z",
       "triggerType": "scheduled",
       "sourcesChecked": 36,
-      "updatesCreated": 3,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:39:48.072Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:40:26.476Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
