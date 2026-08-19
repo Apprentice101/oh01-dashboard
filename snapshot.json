@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:40:26.476Z",
-  "exportedAt": "2026-08-12T05:49:13.923Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:57:50.303Z",
+  "exportedAt": "2026-08-19T05:09:21.855Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1087,20 +1087,80 @@
         "relevanceSummary": "This explainer details Ohio’s current in-person voter-ID rules and the acceptable forms of ID, including state driver’s licenses, state ID cards, passports, military IDs, and related documents. That is directly useful to OH-01 voters preparing for the November election and for understanding the statewide Issue 3 proposal.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0nb2m3o",
+        "headline": "Ohio's summer special election: Know your options and rights",
+        "sourceName": "Signal Cleveland",
+        "url": "https://signalcleveland.org/yes-were-having-a-special-election-in-the-summer-heres-what-you-should-know-about-your-options-and-rights/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This guide covers Ohio voting procedures for a summer special election, including how to request mail-in ballots, use secure drop boxes, and the requirement to present photo ID when voting in person, offering procedural information that also helps OH-01 voters understand statewide rules.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-037g72j",
+        "headline": "Face the State | Aug. 16, 2026",
+        "sourceName": "YouTube / Ohio news program",
+        "url": "https://www.youtube.com/watch?v=BhmJR3Pftls",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "In this episode, Ohio officials direct voters to the statewide voteohio.gov site to check voter registration and find polling locations, providing OH-01 voters with an official resource for confirming where and how they can vote in upcoming elections.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0v0bfa2",
+        "headline": "10 things LGBTQ+ Ohioans should know about absentee voting",
+        "sourceName": "The Buckeye Flame",
+        "url": "https://thebuckeyeflame.com/2026/08/14/10-things-lgbtq-ohioans-should-know-about-absentee-voting/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This statewide explainer details Ohio’s absentee/mail-in voting rules, including how to request and return absentee ballots, key deadlines, and drop-off options at county boards of elections, all of which apply directly to OH-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0tlai3a",
+        "headline": "Enshrining voter ID on amendment on Ohio's November ballot",
+        "sourceName": "Times Leader Online",
+        "url": "https://www.timesleaderonline.com/news/local-news/2026/08/enshrining-voter-id-on-amendment-on-ohios-november-ballot/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This article explains that voter ID is already required under Ohio law and discusses a proposed constitutional amendment to entrench those voter-ID rules for future elections, which affects how OH-01 voters must prove identity at the polls.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-004payy",
+        "headline": "2026 General Election Candidates List and Absentee Ballot Request Form",
+        "sourceName": "Stark County Board of Elections",
+        "url": "https://starkcountyohio.gov/government/offices/board_of_elections/",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "This county elections page provides an absentee ballot request form and a candidates list for the 2026 general election, illustrating standard Ohio county-level procedures for mail voting and ballot access that are similar to those used in OH-01 counties.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0twf9zc",
+        "headline": "Are Ohio Democrats in ‘Disarray' Over Amy Acton's Support for Voter ID?",
+        "sourceName": "The Daily Signal",
+        "url": "https://www.dailysignal.com/2026/08/12/ohio-democrats-disarray-voter-id",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "While partly political, this piece reiterates that voter ID requirements are already part of Ohio law and discusses efforts to strengthen them via constitutional change, informing OH-01 voters about the legal status and potential future of statewide voter-ID rules.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-oh01-auto",
-      "startedAt": "2026-08-12T05:37:46.393Z",
-      "completedAt": "2026-08-12T05:40:26.476Z",
+      "id": "run-2026-08-19-oh01-auto",
+      "startedAt": "2026-08-19T04:54:12.731Z",
+      "completedAt": "2026-08-19T04:57:50.303Z",
       "triggerType": "scheduled",
       "sourcesChecked": 36,
-      "updatesCreated": 5,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:40:26.476Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:57:50.303Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
