@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:57:50.303Z",
-  "exportedAt": "2026-08-19T05:09:21.855Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T05:03:43.378Z",
+  "exportedAt": "2026-08-26T05:17:19.952Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1147,20 +1147,100 @@
         "relevanceSummary": "While partly political, this piece reiterates that voter ID requirements are already part of Ohio law and discusses efforts to strengthen them via constitutional change, informing OH-01 voters about the legal status and potential future of statewide voter-ID rules.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0qk28is",
+        "headline": "Board of Elections | Williams County, OH",
+        "sourceName": "Williams County Board of Elections",
+        "url": "https://www.williamscountyoh.gov/150/Board-of-Elections",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This county Board of Elections page lists election voting dates, hours, and absentee ballot request information for Williams County, reflecting typical Ohio county-level procedures for early voting and mail ballots that are informative for OH-01 voters about how local boards implement statewide rules.[8]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0gcs7pu",
+        "headline": "BREAKING: In a major win, Ohio voters will no longer have to provide documentary proof of citizenship when registering to vote at the Bureau of Motor Vehicles after a federal court blocked the requirement",
+        "sourceName": "Democracy Docket (via X)",
+        "url": "https://x.com/DemocracyDocket/status/2092250199787778480/photo/1",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This civic advocacy update highlights that, due to a federal court order, Ohio voters registering at the BMV no longer need to provide documentary proof of citizenship, clarifying registration requirements for OH-01 voters who use motor vehicle offices to register.[10][5][7]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-02qta1z",
+        "headline": "US judge blocks Ohio law requiring proof of citizenship for voter registration",
+        "sourceName": "Reuters (syndicated)",
+        "url": "https://wncy.com/2026/08/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-for-voter-registration/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "Reporting on the same federal court decision confirms that Ohio's new proof-of-citizenship requirement for voter registration at motor vehicle offices is blocked, directly affecting registration procedures for all Ohio voters, including those in OH-01.[7]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0xv46qo",
+        "headline": "Federal judge blocks Ohio's proof-of-citizenship voter registration law",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/08/federal-judge-blocks-ohios-proof-of-citizenship-voter-registration-law.html",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "A federal judge ruled that Ohio cannot require residents to show documentary proof of U.S. citizenship to register to vote, including at Bureau of Motor Vehicles offices, meaning OH-01 voters may register under prior rules without providing extra citizenship documents.[5][7][10]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-080kkcq",
+        "headline": "Ohio: Voter ID and absentee ballot rules",
+        "sourceName": "VoteRiders",
+        "url": "https://voteriders.org/states/ohio/",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "This voter resource explains Ohio’s current voter-ID rules: photo ID is required for in-person voting, lists acceptable IDs, and details that absentee voters must include ID information or a copy of accepted ID with both their ballot application and completed mail ballot, plus signature-cure procedures using Form 11-S.[1]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0wdj5km",
+        "headline": "Ohio elections don't require blind trust. Here's why",
+        "sourceName": "Cincinnati Enquirer",
+        "url": "https://www.cincinnati.com/story/opinion/contributors/2026/08/21/ohios-election-system-is-built-on-checks-and-balances/91367726007/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This explainer describes statewide election administration practices, including that all ballots are paper-based, voting systems are not internet-connected, and Ohio offers nearly a month of early in-person voting plus absentee options and accessible voting for disabled voters, outlining procedures that apply to OH-01.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0nwjgbf",
+        "headline": "State unveils official arguments for and against Issue 3, the voter-ID amendment",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/08/state-unveils-official-arguments-for-and-against-issue-3-the-voter-id-amendment.html",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "Coverage of Ohio’s Issue 3 summarizes official arguments about the voter-ID amendment and reiterates that, under the law in place since 2023, in-person voters must show a driver’s license, state ID, U.S. passport, or military ID, information crucial for OH-01 voters preparing for November.[13]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0pqm5k7",
+        "headline": "Unsolicited voter mailers coming to Ohio homes, state elections chief warns of confusion",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/08/unsolicited-voter-mailers-coming-to-ohio-homes-state-elections-chief-warns-of-confusion.html",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "Ohio’s Secretary of State warns that unsolicited voter mailers may confuse voters and reiterates statewide rules: the Oct. 5 voter registration deadline, required data for online registration, and that absentee ballots must now be received by 7:30 p.m. on Election Day under Senate Bill 293.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-oh01-auto",
-      "startedAt": "2026-08-19T04:54:12.731Z",
-      "completedAt": "2026-08-19T04:57:50.303Z",
+      "id": "run-2026-08-26-oh01-auto",
+      "startedAt": "2026-08-26T04:59:36.872Z",
+      "completedAt": "2026-08-26T05:03:43.378Z",
       "triggerType": "scheduled",
       "sourcesChecked": 36,
-      "updatesCreated": 6,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:57:50.303Z",
+    "NEXT_REFRESH_AT": "2026-09-02T05:03:43.378Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
