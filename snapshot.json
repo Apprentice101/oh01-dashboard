@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T05:03:43.378Z",
-  "exportedAt": "2026-08-26T05:17:19.952Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:53:47.716Z",
+  "exportedAt": "2026-09-02T09:11:13.745Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1227,20 +1227,90 @@
         "relevanceSummary": "Ohio’s Secretary of State warns that unsolicited voter mailers may confuse voters and reiterates statewide rules: the Oct. 5 voter registration deadline, required data for online registration, and that absentee ballots must now be received by 7:30 p.m. on Election Day under Senate Bill 293.[2]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0pk6zl4",
+        "headline": "What you need to know to vote in the November 2026 general election",
+        "sourceName": "Ideastream Public Media",
+        "url": "https://www.ideastream.org/government-politics/2026-08-31/what-you-need-to-know-to-vote-in-the-november-2026-general-election",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "This statewide explainer outlines Ohio’s current rules for voting in the November 2026 general election, including how to request and return absentee mail ballots, deadlines for ballots to be in county board drop boxes by poll closing on Election Day, and the strict photo ID requirements for in-person voting; these procedures apply directly to all voters in OH-01, including those in Hamilton County.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-02ztrzn",
+        "headline": "Voter ID Requirements in Ohio",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/ohio",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This voter resource summarizes Ohio’s strict photo ID requirements, stating that voters must show a photo ID for their ballot to be counted; understanding these statewide ID rules is critical for OH-01 voters planning to vote in person so they can bring acceptable identification to their polling place.[12]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ysyw6u",
+        "headline": "How mail-in voting restrictions will affect Ohio's elections",
+        "sourceName": "NBC4 (WCMH-TV Columbus)",
+        "url": "https://www.nbc4i.com/news/politics/how-mail-in-voting-restrictions-will-affect-ohios-elections/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This article explains recent restrictions on Ohio mail-in voting while noting that early voting processes remain unchanged for now, and advises voters worried about postal delays or ID issues to request absentee ballots early and return them directly to their county board’s secure drop box; these recommendations and rule explanations apply to OH-01 voters using absentee or early voting.[13]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0dnuiah",
+        "headline": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+        "sourceName": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Al Jazeera’s coverage details that the court found Ohio’s BMV proof-of-citizenship requirement likely violates the National Voter Registration Act and orders Ohio to offer voter registration when applicants submit their driver’s license applications without demanding documentary proof; this reinforces for OH-01 voters that BMV registration has reverted to the attestation standard.[11]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-023k8u8",
+        "headline": "Judge blocks Ohio proof-of-citizenship law for voter registration at BMV",
+        "sourceName": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/6051386-judge-blocks-ohio-proof-of-citizenship-law-midterms/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Reporting on the same federal case, this article highlights that eligible Ohioans now have the opportunity to register to vote at the BMV without producing extra citizenship paperwork not required by federal law, just weeks before the registration deadline; this clarifies for OH-01 voters that the stricter BMV proof-of-citizenship rule will not apply for now.[2]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-08uaa91",
+        "headline": "Federal Judge: Ohio Voter Registration Proof Citizenship Injunction Issued",
+        "sourceName": "Briefly (Wansom.ai)",
+        "url": "https://www.wansom.ai/briefly/news/federal-judge-freezes-ohio-voter-citizenship-requirement-2026-08-25_f5f46ade-e4f1-4ba1-acbc-207255bd5f1e",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This piece explains that, due to the federal injunction, Ohio residents registering at BMV locations no longer need to present physical proof-of-citizenship documents and can instead rely on a signed attestation, aligning BMV voter registration with other methods statewide; OH-01 voters using BMV-based registration benefit from reduced paperwork requirements.[5]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0geow2v",
+        "headline": "Federal judge blocks enforcement of Ohio proof-of-citizenship requirement",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/wireStory/federal-judge-blocks-enforcement-ohio-proof-citizenship-135952201",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "A federal judge issued a preliminary injunction blocking Ohio’s new requirement that voters show documentary proof of U.S. citizenship when registering to vote at Bureau of Motor Vehicles offices, restoring the prior process of attesting to citizenship under penalty of perjury; this immediately affects how OH-01 voters can register when getting or renewing a driver’s license and changes what documents they need to bring.[6]",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-oh01-auto",
-      "startedAt": "2026-08-26T04:59:36.872Z",
-      "completedAt": "2026-08-26T05:03:43.378Z",
+      "id": "run-2026-09-02-oh01-auto",
+      "startedAt": "2026-09-02T08:49:03.707Z",
+      "completedAt": "2026-09-02T08:53:47.716Z",
       "triggerType": "scheduled",
       "sourcesChecked": 36,
-      "updatesCreated": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T05:03:43.378Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:53:47.716Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
