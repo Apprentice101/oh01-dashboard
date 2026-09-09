@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:53:47.716Z",
-  "exportedAt": "2026-09-02T09:11:13.745Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T09:06:45.977Z",
+  "exportedAt": "2026-09-09T09:21:30.299Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1297,20 +1297,100 @@
         "relevanceSummary": "A federal judge issued a preliminary injunction blocking Ohio’s new requirement that voters show documentary proof of U.S. citizenship when registering to vote at Bureau of Motor Vehicles offices, restoring the prior process of attesting to citizenship under penalty of perjury; this immediately affects how OH-01 voters can register when getting or renewing a driver’s license and changes what documents they need to bring.[6]",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0at0tux",
+        "headline": "Three states have changed election canvassing deadlines in 2026",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/09/08/three-states-have-changed-election-canvassing-deadlines-in-2026/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "The Ohio section of this article summarizes current voter ID rules for in-person voting and notes that, under a 2025 law, absentee/mail-in ballots must now be received by the close of polls on election night rather than postmarked by Election Day, a statewide change that directly impacts OH-01 mail voters.[8]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0trgx1k",
+        "headline": "Ohio 2026: what is actually on your November ballot, and what the record says about each race",
+        "sourceName": "Reddit / r/Ohio (roundup post)",
+        "url": "https://www.reddit.com/r/Ohio/comments/1w8d5px/ohio_2026_what_is_actually_on_your_november/",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "Among its statewide election information, this post clarifies that Issue 3 does not mandate photo ID for mail-in voting and notes that a proposed photo ID requirement for mail ballots was vetoed in June, helping OH-01 voters understand that current mail voting still allows alternative identifiers like SSN instead of photo ID.[15]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-09hka4o",
+        "headline": "Ohio’s voter ID amendment, explained",
+        "sourceName": "Signal Akron",
+        "url": "https://ground.news/article/what-is-issue-3-ohios-voter-id-amendment-explained-signal-akron",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "This explainer describes Issue 3, a proposed constitutional amendment that would lock in Ohio’s existing photo ID requirements for in-person voting, giving OH-01 voters background on how the measure would affect long-term voter-ID rules if approved.[14]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0nieshi",
+        "headline": "With his Senate campaign foundering, Jon Husted trots out a tired immigration tactic: Today in Ohio",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/09/with-his-senate-campaign-foundering-jon-husted-trots-out-a-tired-immigration-tactic-today-in-ohio.html",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This Today in Ohio segment includes a statewide explainer that voters will receive absentee ballot request forms and details the valid ID options (driver’s license number, last four of SSN, state ID number, or a copy of acceptable photo ID) and emphasizes that completed ballots must be received by 7:30 p.m. on Election Day or via drop box, informing OH-01 voters about current mail-ballot and ID-copy rules.[12]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0b0owi1",
+        "headline": "Husted pushes federal ban on undocumented immigrant driver's licenses: Capitol Letter",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/husted-pushes-federal-ban-on-undocumented-immigrant-drivers-licenses-capitol-letter.html",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This Capitol Letter newsletter reports that Ohio’s Secretary of State announced all registered voters will soon receive absentee ballot request forms by mail ahead of the November election, reiterating that completed ballots must be received by 7:30 p.m. on Election Day, a statewide mailing and deadline that applies to OH-01 voters.[10][11]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-07ctfbo",
+        "headline": "What is Issue 3? Ohio’s voter ID amendment, explained",
+        "sourceName": "Cincinnati CityBeat",
+        "url": "https://www.citybeat.com/news/ohio-issue-3-voter-id-explainer-2026-election/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This piece explains statewide Issue 3, which would enshrine Ohio’s existing photo ID rules for in-person voting and clarifies that the amendment does not itself require photo ID for mail voting, but lets the legislature decide, affecting current and future voter-ID requirements for OH-01 voters.[3]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0l1g8ud",
+        "headline": "Cuyahoga elections chief emphasizes Ohio absentee voting is unchanged, despite Trump court fight",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/cuyahoga-elections-chief-emphasizes-ohio-absentee-voting-is-unchanged-despite-trump-court-fight.html",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This article clarifies that Ohio’s absentee/mail voting procedures remain unchanged for the November general election despite a federal court fight, confirming that OH-01 voters can still vote by mail, with ballots due to county boards of elections by 7:30 p.m. on Election Day and drop-box options available.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0egfba9",
+        "headline": "Ohio voters soon will get applications for absentee ballots in their mail: What to know for 2026",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/ohio-voters-soon-will-get-applications-for-absentee-ballots-in-their-mail-what-to-know-for-2026.html",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This statewide explainer details Ohio’s absentee ballot request mailing, the required ID information on applications (driver’s license, state ID, last four of SSN, or copy of acceptable photo ID), and the deadline for completed absentee ballots, directly guiding OH-01 voters on mail-ballot procedures and ID-copy requirements.[2]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-oh01-auto",
-      "startedAt": "2026-09-02T08:49:03.707Z",
-      "completedAt": "2026-09-02T08:53:47.716Z",
+      "id": "run-2026-09-09-oh01-auto",
+      "startedAt": "2026-09-09T09:02:44.275Z",
+      "completedAt": "2026-09-09T09:06:45.977Z",
       "triggerType": "scheduled",
       "sourcesChecked": 36,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:53:47.716Z",
+    "NEXT_REFRESH_AT": "2026-09-16T09:06:45.977Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
