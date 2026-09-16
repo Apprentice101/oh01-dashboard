@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T09:06:45.977Z",
-  "exportedAt": "2026-09-09T09:21:30.299Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:38:03.437Z",
+  "exportedAt": "2026-09-16T09:52:58.709Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -68,7 +68,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-oh-sos-voter-registration": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1377,20 +1377,80 @@
         "relevanceSummary": "This statewide explainer details Ohio’s absentee ballot request mailing, the required ID information on applications (driver’s license, state ID, last four of SSN, or copy of acceptable photo ID), and the deadline for completed absentee ballots, directly guiding OH-01 voters on mail-ballot procedures and ID-copy requirements.[2]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0c5kdcl",
+        "headline": "What the Supreme Court's mail-ballot ruling means for Ohio voters",
+        "sourceName": "10TV",
+        "url": "https://www.10tv.com/article/news/local/ohio/supreme-court-mail-ballot-ruling-ohio-voters-trump/530-dd262f9a-90ba-4c4d-b89c-1cac3a6009a7",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Explains how a recent U.S. Supreme Court decision interacts with Ohio’s absentee‑ballot process, including the need for voters to submit an application with required identifying information, ID and signature checks when requesting and returning ballots, and online ballot‑tracking tools, all directly relevant to OH‑01 mail voters.[13]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0dp6y6f",
+        "headline": "2026 general election voter guide: How to register to vote, request an absentee ballot in Ohio",
+        "sourceName": "FOX 8",
+        "url": "https://fox8.com/news/2026-general-election-voter-guide-how-to-register-to-vote-request-an-absentee-ballot-in-ohio/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Outlines Ohio’s current rules for voter registration, acceptable IDs for in‑person voting, provisional ballot cure procedures, absentee‑ballot request deadlines, and the 2026 change that mail ballots must be received by local boards by 7:30 p.m. on Election Day, directly affecting all OH‑01 voters.[5]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ljfpo2",
+        "headline": "Ohio absentee voting remains unchanged after federal appeals court ruling",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/ohio-absentee-voting-remains-unchanged-after-federal-appeals-court-ruling.html",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "Reports that a recent federal appeals court decision leaves Ohio’s absentee‑voting rules intact, reiterating that completed mail ballots must be received by county boards by 7:30 p.m. on Election Day or dropped off in secure 24‑hour drop boxes, confirming procedures for OH‑01 voters amid litigation.[12]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0rfnfty",
+        "headline": "Ohio early in-person voting is scheduled to begin October 6",
+        "sourceName": "WHIO",
+        "url": "https://www.whio.com/news/local/ohio-early-in-person-voting-is-scheduled-begin-october-6/QMJIOQXMSVD73NYXSW6KNQBL6I/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "Describes statewide early in‑person voting start dates and explains Ohio’s two‑step identity verification process for absentee voters—ID checks when requesting and again when returning the ballot—clarifying mail‑ballot procedures that apply to OH‑01 counties.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0h34e0w",
+        "headline": "The Library is How You Get Vote Ready",
+        "sourceName": "Cincinnati & Hamilton County Public Library",
+        "url": "https://chpl.org/blogs/post/the-library-is-how-you-get-vote-ready/",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "Local guidance for Hamilton County (within OH‑01) on how voters can access absentee‑ballot applications and election information at library branches, noting that there is no longer a grace period for receipt of mail‑in ballots except for military and overseas voters, which is a key procedural change for district voters.[7]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-01lblpv",
+        "headline": "What you need to know to vote in the November 2026 general election",
+        "sourceName": "WOSU",
+        "url": "https://www.wosu.org/2026-08-31/what-you-need-to-know-to-vote-in-the-november-2026-general-election",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "Provides a statewide voter guide for Ohio’s November 2026 general election, detailing how to request and return absentee ballots under the new rule that mail ballots must be in the county board’s ballot box by poll closing, as well as in‑person voter ID requirements, all of which apply to OH‑01 voters.[2]",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-oh01-auto",
-      "startedAt": "2026-09-09T09:02:44.275Z",
-      "completedAt": "2026-09-09T09:06:45.977Z",
+      "id": "run-2026-09-16-oh01-auto",
+      "startedAt": "2026-09-16T09:33:40.966Z",
+      "completedAt": "2026-09-16T09:38:03.437Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 36,
-      "updatesCreated": 8,
+      "sourcesChecked": 30,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for OH-01. Sources checked: 30. LLM verifications: 23. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T09:06:45.977Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:38:03.437Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
