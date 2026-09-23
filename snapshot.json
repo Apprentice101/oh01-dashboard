@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:38:03.437Z",
-  "exportedAt": "2026-09-16T09:52:58.709Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:28:00.426Z",
+  "exportedAt": "2026-09-23T09:39:23.546Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1437,20 +1437,100 @@
         "relevanceSummary": "Provides a statewide voter guide for Ohio’s November 2026 general election, detailing how to request and return absentee ballots under the new rule that mail ballots must be in the county board’s ballot box by poll closing, as well as in‑person voter ID requirements, all of which apply to OH‑01 voters.[2]",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-04a4wid",
+        "headline": "Ohio early voting starts soon, but voters can already see sample ballots",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/2026/09/22/see-ohio-sample-ballot-election-day-2026/91887333007/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "This Ohio election-information article says voters can review sample ballots before Election Day and notes that early in-person voting begins Oct. 6, including the two Saturdays and Sunday before Election Day. These statewide voting procedures apply to OH-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ojlyek",
+        "headline": "Ohio plans to purge 209,000 voters in 2027",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/ohio-plans-purge-209-000-172200514.html?fr=sycsrp_catchall",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article reports that Ohio plans a 2027 voter-registration cancellation process and explains actions voters can take to prevent cancellation, including voting, confirming an address, submitting an absentee application, or updating registration. The statewide registration guidance is relevant to OH-01 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0uqgs44",
+        "headline": "Ohio secretary of state urges voters to confirm registration ahead of October deadline",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/09/ohio-secretary-of-state-urges-voters-to-confirm-registration-ahead-of-october-deadline.html",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Ohio’s secretary of state is urging voters to verify their registration before the October deadline; the article also notes the Oct. 27 absentee-application deadline and the 7:30 p.m. Election Day return deadline. This statewide administrative guidance applies directly to OH-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0lvpwis",
+        "headline": "Some Ohio early voting starts today, but when is the voting deadline?",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/2026/09/18/ohio-voting-deadlines-midterm-election-day-2026/91808461007/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article provides statewide Ohio voting deadlines, including the Oct. 27 deadline for absentee-ballot applications and the 7:30 p.m. Nov. 3 deadline for returning completed ballots. These procedures directly affect voters in Ohio’s 1st Congressional District.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0m62j1g",
+        "headline": "Summit County announces polling locations for Nov. 3 general election",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/summit-county/2026/09/summit-county-announces-polling-locations-for-nov-3-general-election.html",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "Summit County announced polling locations for the Nov. 3 general election and provided absentee-ballot mailing dates. Although Summit County is outside OH-01, the county-level election-administration coverage is relevant under the dashboard’s Ohio-wide inclusion rule and reflects statewide election logistics.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0p1bh0m",
+        "headline": "What to do if you didn't get an Ohio absentee ballot form in the mail",
+        "sourceName": "The Cincinnati Enquirer",
+        "url": "https://www.cincinnati.com/story/news/politics/2026/09/17/what-if-i-didnt-get-an-ohio-absentee-ballot-request-in-the-mail/91715176007/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "This statewide voter-resource article explains how Ohio voters can check registration, register or update an address, and obtain and submit an absentee-ballot application even if a form was not mailed to them. The guidance applies to OH-01 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0b94yih",
+        "headline": "Absentee voting rules set with Supreme Court decision, first ballots go out Friday: What to know",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/absentee-voting-rules-set-with-supreme-court-decision-first-ballots-go-out-friday-what-to-know.html",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "This statewide Ohio explainer says military and overseas absentee ballots begin mailing Sept. 18, other requested absentee ballots must be ready Oct. 6, applications are due Oct. 27, and completed ballots must arrive by 7:30 p.m. Election Day. It also explains Ohio’s photo-ID requirement for early in-person voting, all of which applies to OH-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0l7fh0h",
+        "headline": "What will mail-in voting look like in Ohio this fall? The latest after Supreme Court ruling",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/videos/news/local/2026/09/16/what-will-mail-in-voting-look-like-in-ohio-this-fall-the-latest-after-supreme-court-ruling/91796029007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Ohio elections boards say mail-in voting will remain largely unchanged this fall after a U.S. Supreme Court decision. The statewide procedural update is relevant to voters in OH-01 who use absentee ballots.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-oh01-auto",
-      "startedAt": "2026-09-16T09:33:40.966Z",
-      "completedAt": "2026-09-16T09:38:03.437Z",
+      "id": "run-2026-09-23-oh01-auto",
+      "startedAt": "2026-09-23T09:21:47.296Z",
+      "completedAt": "2026-09-23T09:28:00.426Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 30,
-      "updatesCreated": 6,
+      "sourcesChecked": 36,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for OH-01. Sources checked: 30. LLM verifications: 23. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:38:03.437Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:28:00.426Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
