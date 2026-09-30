@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:28:00.426Z",
-  "exportedAt": "2026-09-23T09:39:23.546Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:27:40.830Z",
+  "exportedAt": "2026-09-30T10:39:39.924Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -68,7 +68,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-oh-sos-voter-registration": {
@@ -104,7 +104,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-22",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "Authoritative SOS answer on absentee-ballot return: non-UOCAVA ballots must be received by 7:30 PM on Election Day; UOCAVA voters have a 4-day post-Election Day window."
       },
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -1517,20 +1517,100 @@
         "relevanceSummary": "Ohio elections boards say mail-in voting will remain largely unchanged this fall after a U.S. Supreme Court decision. The statewide procedural update is relevant to voters in OH-01 who use absentee ballots.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-01kyehj",
+        "headline": "2026 Ohio Midterm Election Guide: Key deadlines, races on the ballot",
+        "sourceName": "10TV",
+        "url": "https://www.10tv.com/article/news/politics/elections/2026-ohio-midterm-election-voter-guide/530-681b6a6c-7f37-4bde-8e02-a8cbcd46e090",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The guide provides statewide 2026 Ohio election information, including Election Day polling hours and key deadlines for voters. Those procedures apply to OH-01 voters preparing for the November general election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0szuqch",
+        "headline": "What is Ohio Issue 3? What a yes or no vote would change about voter ID",
+        "sourceName": "WTOL 11",
+        "url": "https://www.wtol.com/article/news/politics/elections/ohio-issue-3-voter-id-explained-2026/512-8a0dbd21-e427-4b96-b3f5-ae96e429d986",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The article explains Ohio’s current acceptable photo IDs for in-person voting, provisional-ballot identification rules, and identification options for absentee-ballot applications, including an ID copy or the last four Social Security digits. These requirements apply to OH-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0jvlf5n",
+        "headline": "Election 2026: What's different this election, and what you need to know to vote",
+        "sourceName": "Dayton Daily News",
+        "url": "https://www.daytondailynews.com/tncms/asset/editorial/3746dd52-1acd-4ec7-8d66-a994865e705a",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The voter guide describes Ohio’s current photo-ID requirements for in-person voting, absentee-ballot and drop-box procedures, polling hours, and provisional-ballot rules. The statewide information is directly relevant to voters in OH-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-08rlz0a",
+        "headline": "Federal appeals court reinstates Ohio proof-of-citizenship voting law",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/09/federal-appeals-court-reinstates-ohio-proof-of-citizenship-voting-law.html",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "A federal appeals court reinstated Ohio’s requirement that residents provide proof of U.S. citizenship when registering to vote at Bureau of Motor Vehicles locations. The statewide ruling applies to OH-01 voters and may affect how some voters register or update their registration.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0yhh9r5",
+        "headline": "Ohio early voting dates to know ahead of Election Day 2026",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/2026/09/28/ohio-early-voting-election-day-absentee-in-person-2026/91986979007/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The article explains Ohio’s 2026 voting schedule, including the October 6 start of early voting, Election Day polling hours, and the deadline for absentee ballots to reach local boards of elections. These statewide procedures apply directly to OH-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0a5q4ry",
+        "headline": "Week in Review - Ohio Secretary of State",
+        "sourceName": "Ohio Secretary of State",
+        "url": "https://www.ohiosos.gov/office/media-center/categories/week-in-review/week-in-review-2026-09-25",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The Secretary of State’s weekly update directs Ohio voters to check registration, update information, or register through VoteOhio.gov. That statewide voter-registration resource is applicable to voters in OH-01.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0eu3qdw",
+        "headline": "Ohio Secretary of State eyes removal of more than 200,000 inactive voters in early 2027",
+        "sourceName": "WVXU",
+        "url": "https://www.wvxu.org/2026-09-25/ohio-secretary-of-state-eyes-removal-of-more-than-200-000-inactive-voters-in-early-2027",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The Ohio Secretary of State’s office said voters identified as inactive can remain registered by voting, updating or confirming registration information, submitting an absentee-ballot application, or completing another qualifying activity. The statewide voter-list process affects OH-01 registrants.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ob4m28",
+        "headline": "Court rules Ohio can require proof of citizenship to register to vote",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETOH91918534007?channel=iae739",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "An appeals court ruled that Ohio may require proof of citizenship for voter registration at the Bureau of Motor Vehicles. The statewide legal development is relevant to OH-01 residents registering or updating their records.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-oh01-auto",
-      "startedAt": "2026-09-23T09:21:47.296Z",
-      "completedAt": "2026-09-23T09:28:00.426Z",
+      "id": "run-2026-09-30-oh01-auto",
+      "startedAt": "2026-09-30T10:25:20.423Z",
+      "completedAt": "2026-09-30T10:27:40.830Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 36,
+      "sourcesChecked": 17,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for OH-01. Sources checked: 17. LLM verifications: 15. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:28:00.426Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:27:40.830Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
