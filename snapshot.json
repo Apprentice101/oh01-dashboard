@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:27:40.830Z",
-  "exportedAt": "2026-09-30T10:39:39.924Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T11:03:48.766Z",
+  "exportedAt": "2026-10-07T11:14:50.352Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1597,20 +1597,100 @@
         "relevanceSummary": "An appeals court ruled that Ohio may require proof of citizenship for voter registration at the Bureau of Motor Vehicles. The statewide legal development is relevant to OH-01 residents registering or updating their records.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ewzexu",
+        "headline": "Early voting officially begins in Ohio and Indiana",
+        "sourceName": "WLWT",
+        "url": "https://www.wlwt.com/article/early-voting-ohio-indiana-governor-senate-midterms/74057401",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article reports that Ohio eliminated the four-day grace period for late-arriving mail ballots and confirms the 7:30 p.m. Election Day receipt deadline. It also reiterates Ohio’s approved-photo-ID requirement for early in-person voting, both of which directly affect OH-01 voters.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-02fi5dw",
+        "headline": "Early voting begins in Ohio",
+        "sourceName": "WSAZ",
+        "url": "https://www.wsaz.com/2026/10/06/early-voting-begins-ohio/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article reports that early voting has begun statewide, describes Ohio’s photo-ID requirement, and gives the Oct. 27 deadline for requesting an absentee ballot. These statewide rules are directly relevant to OH-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0vi1l5m",
+        "headline": "Ohio Decides: Everything you need to know to cast your ballot",
+        "sourceName": "Cleveland 19 News",
+        "url": "https://www.cleveland19.com/2026/10/06/ohio-decides-everything-you-need-know-cast-your-ballot/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article explains Ohio’s statewide voting procedures, including the Oct. 27, 8:30 p.m. deadline to request an absentee ballot, the 7:30 p.m. Election Day return deadline, and the photo-ID requirement for in-person voting. These rules apply directly to OH-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0t5j7zl",
+        "headline": "What's different this election, and what you need to know to vote",
+        "sourceName": "Dayton Daily News",
+        "url": "https://www.daytondailynews.com/local/election-2026-what-s-different-this-election-and-what-you-need-to-know-to-vote/article_f224ada9-e970-5340-accb-13a5eaf56750.html",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The article details statewide Ohio polling hours, early voting, absentee-ballot application procedures, and the requirement that ballots arrive at county boards of elections by 7:30 p.m. on Election Day. The procedures apply to voters in OH-01.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-003dg5c",
+        "headline": "Ohio's 2026 election voter registration deadline is coming up. What you need to know",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETOH92019629007?channel=iae739",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article describes Ohio absentee-ballot application procedures, the Oct. 27, 8:30 p.m. application deadline, and the requirement that completed ballots arrive by 7:30 p.m. on Election Day. These statewide deadlines and procedures apply to OH-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0b2kges",
+        "headline": "Ohio election: See a sample of your ballot, check school ...",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/ohio-election-see-sample-ballot-144608655.html",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article explains Ohio’s acceptable photo-ID documents and the provisional-ballot process for voters unable to provide an accepted ID. These statewide voter-identification requirements apply directly to OH-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0nzcs4e",
+        "headline": "Early voting starts Tuesday in Cuyahoga County: What you need to know",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/10/early-voting-starts-tuesday-in-cuyahoga-county-what-you-need-to-know.html",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article covers Cuyahoga County early voting, absentee-ballot deadlines, a ballot drop box, and demonstrations of voting equipment and absentee-voting security procedures. Cuyahoga County is not within OH-01, so its county-specific logistics are indirect, but the statewide procedures and security information remain relevant.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0e088gc",
+        "headline": "Ohio early voting 2026: Dates, hours, voter ID rules and northwest Ohio locations",
+        "sourceName": "WTOL 11",
+        "url": "https://www.wtol.com/article/news/politics/elections/ohio-early-voting-2026-dates-hours-id-locations/512-09e824d2-e351-4ae2-88cd-1644b7a2f735",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "The article lists Ohio’s early-voting schedule, county-based early-voting locations, accepted photo IDs, and the provisional-ballot option for voters who lack acceptable identification. The statewide ID rules apply to OH-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-oh01-auto",
-      "startedAt": "2026-09-30T10:25:20.423Z",
-      "completedAt": "2026-09-30T10:27:40.830Z",
+      "id": "run-2026-10-07-oh01-auto",
+      "startedAt": "2026-10-07T11:00:41.648Z",
+      "completedAt": "2026-10-07T11:03:48.766Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
+      "sourcesChecked": 36,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for OH-01. Sources checked: 17. LLM verifications: 15. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:27:40.830Z",
+    "NEXT_REFRESH_AT": "2026-10-14T11:03:48.766Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
