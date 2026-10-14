@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T11:03:48.766Z",
-  "exportedAt": "2026-10-07T11:14:50.352Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:24:38.380Z",
+  "exportedAt": "2026-10-14T09:34:21.103Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -68,7 +68,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-oh-sos-voter-registration": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -1677,20 +1677,90 @@
         "relevanceSummary": "The article lists Ohio’s early-voting schedule, county-based early-voting locations, accepted photo IDs, and the provisional-ballot option for voters who lack acceptable identification. The statewide ID rules apply to OH-01 voters.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0uuv20y",
+        "headline": "Voting laws passed by states take effect",
+        "sourceName": "NWAonline",
+        "url": "https://www.nwaonline.com/news/2026/oct/13/voting-laws-passed-by-states-take-effect/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Ohio now requires proof of citizenship for people registering or updating registration at a Bureau of Motor Vehicles location, and mail ballots must arrive at local election offices by Election Day because the four-day grace period was eliminated.[8]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0d8bo3l",
+        "headline": "Ohio sees strong turnout during first week of early voting",
+        "sourceName": "Hometown Stations",
+        "url": "https://www.hometownstations.com/2026/10/13/ohio-sees-strong-turnout-during-first-week-early-voting/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Ohio early in-person voting is underway statewide and continues through November 1 at county boards of elections, providing procedural information relevant to OH-01 voters choosing early voting.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0m1g8j6",
+        "headline": "Charter amendments and levies galore on ballots in Franklin County communities",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/issues/2026/10/13/charter-amendments-and-levies-on-many-franklin-county-community-ballots/92178231007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article gives Ohio voting deadlines and hours: early voting ends November 1, absentee-ballot applications are due October 27, ballots must arrive by 7:30 p.m. on November 3, and polls are open 6:30 a.m. to 7:30 p.m. It also covers Ohio Issue 3, a proposed constitutional photo-ID requirement.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0b3n5x4",
+        "headline": "Early voting turnout rises sharply in southwest Ohio",
+        "sourceName": "WLWT",
+        "url": "https://www.wlwt.com/article/early-voting-turnout-southwest-ohio-midterm-election/74112167",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The report provides Ohio early-voting timing, noting that in-person voting continues through November 1 and Election Day is November 3. The statewide schedule is relevant to OH-01 voters.[10]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0pl6k25",
+        "headline": "Voters in many states are being met with new voting rules",
+        "sourceName": "AP News",
+        "url": "https://apnews.com/article/midterms-voting-states-citizenship-voter-id-afed320c2dba532098b5158d2d0f107c",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The Ohio portion reports a new proof-of-citizenship requirement for registration or registration updates at a BMV and the elimination of the four-day mail-ballot grace period. Both changes directly affect Ohio voters, including those in OH-01.[9]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0rgb57j",
+        "headline": "'Ohio does it right': Local boards of elections say the midterms will be free and fair",
+        "sourceName": "WYSO",
+        "url": "https://www.wyso.org/2026-10-12/ohio-board-of-elections-midterms-free-fair",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Ohio election officials describe bipartisan poll-worker requirements, poll-book and voting-machine testing, absentee-ballot verification, provisional-ballot documentation, certification, and post-election audits. These statewide administrative procedures apply to OH-01 voters.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh01-0ryphk4",
+        "headline": "Early Voting Underway in Ohio More Than Three Weeks to Vote Early",
+        "sourceName": "Ohio Senate",
+        "url": "https://ohiosenate.gov/news/on-the-record/early-voting-underway-in-ohio-more-than-three-weeks-to-vote-early",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Ohio early voting runs October 6 through November 1, with voting available at county boards of elections, by absentee ballot, and on Election Day. The article also directs voters to VoteOhio.gov for sample ballots and polling-place information.[1]",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-oh01-auto",
-      "startedAt": "2026-10-07T11:00:41.648Z",
-      "completedAt": "2026-10-07T11:03:48.766Z",
+      "id": "run-2026-10-14-oh01-auto",
+      "startedAt": "2026-10-14T09:23:20.915Z",
+      "completedAt": "2026-10-14T09:24:38.380Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 36,
-      "updatesCreated": 8,
+      "sourcesChecked": 18,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for OH-01. Sources checked: 36. LLM verifications: 25. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for OH-01. Sources checked: 18. LLM verifications: 16. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T11:03:48.766Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:24:38.380Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
