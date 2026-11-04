@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-28",
-  "updatedAt": "2026-10-28T10:20:31.569Z",
-  "exportedAt": "2026-10-28T10:25:58.703Z",
+  "dataAsOf": "2026-11-04",
+  "updatedAt": "2026-11-04T11:47:12.565Z",
+  "exportedAt": "2026-11-04T11:52:05.127Z",
   "districtCode": "OH-01",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-hamilton-boe": {
@@ -153,7 +153,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-10tv": {
@@ -1820,17 +1820,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-28-oh01-auto",
-      "startedAt": "2026-10-28T10:20:27.218Z",
-      "completedAt": "2026-10-28T10:20:31.569Z",
+      "id": "run-2026-11-04-oh01-auto",
+      "startedAt": "2026-11-04T11:47:09.993Z",
+      "completedAt": "2026-11-04T11:47:12.565Z",
       "triggerType": "scheduled",
       "sourcesChecked": 36,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-28 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-04 for OH-01. Sources checked: 36. LLM verifications: 26. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-04T10:20:31.569Z",
+    "NEXT_REFRESH_AT": "2026-11-11T11:47:12.565Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh01-2026-w24",
       "periodStart": "2026-06-08",
